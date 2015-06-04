@@ -1,5 +1,3659 @@
 {
   "type": "FeatureCollection",
   "features": [
-]
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80461599",
+      "full station name": "FMWT 516 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.997778,
+          38.076389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D82691360",
+      "full station name": "Toe Drain below Yolo Wildlife Area (BLC)",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.16'), ('', '0.16'), ('', '0.16'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.22'), ('', '0.22'), ('', '0.23'), ('', '0.23'), ('', '0.23'), ('', '0.21'), ('', '0'), ('', '0.21'), ('', '0.26'), ('', '0.26'), ('', '0.26'), ('', '0.27'), ('', '0.27'), ('', '0.27'), ('', '0.23'), ('', '0.19')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.599425,
+          38.448483
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D28A",
+      "full station name": "Old River @ Rancho Del Rio",
+      "run name": "Mid Delta Boat Day 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '180'), ('', '220'), ('', '264'), ('', '238'), ('', '242'), ('', '184'), ('', '180'), ('', '236'), ('', '216'), ('', '184'), ('', '188'), ('', '300'), ('', '276'), ('', '200'), ('', '100'), ('', '80'), ('', '150'), ('', '116'), ('', '208'), ('', '72'), ('', '60'), ('', '140'), ('', '50'), ('', '148'), ('', '60'), ('', '32'), ('', '168'), ('', '168'), ('', '104'), ('', '116'), ('', '114'), ('', '140'), ('', '102'), ('', '56'), ('', '100'), ('', '184'), ('', '100'), ('', '304'), ('', '124'), ('', '62'), ('', '92'), ('', '104'), ('', '72'), ('', '108'), ('', '90'), ('', '160'), ('', '62'), ('', '134'), ('', '96'), ('', '152'), ('', '68'), ('', '124'), ('', '176'), ('', '128'), ('', '80'), ('', '84'), ('', '152'), ('', '60'), ('', '136'), ('', '94'), ('', '200'), ('', '58'), ('', '120'), ('', '164'), ('', '88'), ('', '90'), ('', '156'), ('', '116'), ('', '80'), ('', '60'), ('', '60'), ('', '144'), ('', '134'), ('', '134'), ('', '180'), ('', '200'), ('', '148'), ('', '200'), ('', '124'), ('', '112'), ('', '132'), ('', '110'), ('', '120'), ('', '74'), ('', '74'), ('', '74'), ('', '74'), ('', '156'), ('', '180'), ('', '200'), ('', '140'), ('', '132'), ('', '132'), ('', '140'), ('', '106'), ('', '284'), ('', '110'), ('', '156'), ('', '156'), ('', '190'), ('', '190'), ('', '212'), ('', '350'), ('', '192'), ('', '184'), ('', '312'), ('', '100'), ('', '180'), ('', '344'), ('', '274'), ('', '180'), ('', '180'), ('', '180'), ('', '180'), ('', '124'), ('', '308'), ('', '180'), ('', '236'), ('', '320'), ('', '204'), ('', '196'), ('', '312'), ('', '130'), ('', '160'), ('', '208'), ('', '180')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.573000,
+          37.970472
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273246",
+      "full station name": "SMARTS 2 Tall Tank #6",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.75'), ('', '0.75'), ('', '0.5'), ('', '1.5'), ('', '1.25'), ('', '1'), ('', '0.75'), ('', '1'), ('', '1'), ('', '1'), ('', '0.75'), ('', '0.75')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273247",
+      "full station name": "SMARTS 2 Tall Tank #7",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '1'), ('', '1'), ('', '1.25'), ('', '2'), ('', '1.25'), ('', '1'), ('', '0.75'), ('', '1'), ('', '1'), ('', '1'), ('', '0.75'), ('', '0.75')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273244",
+      "full station name": "SMARTS 2 Short Tank #4",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.25'), ('', '0.25'), ('', '0.5'), ('', '0.75'), ('', '0.5'), ('', '0.5'), ('', '0.25'), ('', '0.25'), ('', '0.25'), ('', '0.25'), ('', '0.25'), ('', '0.25')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273243",
+      "full station name": "SMARTS 2 Short Tank #3",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.5'), ('', '0.5'), ('', '1.1'), ('', '1'), ('', '0.75'), ('', '0.75'), ('', '0.5'), ('', '0.5'), ('', '6.75'), ('', '0.5'), ('', '0.5'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E0B80272070",
+      "full station name": "SUISUN BAY OFF BULLS HD PT MARTNZ",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '40'), ('', '56'), ('', '32'), ('', '90'), ('', '38'), ('', '72'), ('', '29'), ('', '29'), ('', '40'), ('', '52'), ('', '28'), ('', '32'), ('', '32'), ('', '54'), ('', '50'), ('', '86'), ('', '39'), ('', '60'), ('', '32'), ('', '59'), ('', '42'), ('', '70'), ('', '46'), ('', '26'), ('', '48'), ('', '24'), ('', '54'), ('', '42'), ('', '46'), ('', '56'), ('', '30'), ('', '60'), ('', '40'), ('', '44'), ('', '56'), ('', '69'), ('', '53'), ('', '60'), ('', '68'), ('', '84'), ('', '60'), ('', '60'), ('', '80'), ('', '60'), ('', '72'), ('', '56'), ('', '52'), ('', '32'), ('', '76'), ('', '58')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.116667,
+          38.044444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273249",
+      "full station name": "SMARTS 2 Tall Tank #9",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '2.5'), ('', '1.75'), ('', '3.2'), ('', '2.5'), ('', '2'), ('', '2'), ('', '2.5'), ('', '2.5'), ('', '2'), ('', '2.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.590278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81040386",
+      "full station name": "Sacramento River at Vieira's",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '1.4'), ('', '1.4'), ('', '1.4'), ('', '1.35'), ('', '1.35'), ('', '1.35'), ('', '1.82'), ('', '1.82'), ('', '1.82'), ('', '1.6'), ('', '1.6'), ('', '2.1'), ('', '2'), ('', '2.1'), ('', '2'), ('', '2'), ('', '2'), ('', '2.1'), ('', '2.1'), ('', '2.1'), ('', '1.19'), ('', '1.19'), ('', '1.19'), ('', '2.3'), ('', '1.4'), ('', '2.3'), ('', '1.28'), ('', '0.47'), ('', '2.9'), ('', '1.1'), ('', '0.28'), ('', '2'), ('', '1.9'), ('', '2.3'), ('', '1.9'), ('', '2.5'), ('', '1.2'), ('', '1.6'), ('', '1.09')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.643503,
+          38.172856
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SI002000",
+      "full station name": "Silverwood Lk at San Bernardino Tunnel",
+      "run name": "JAN-East",
+      "run submitted by": "Cindy Brummett",
+      "data": "[('', '7.5'), ('', '3'), ('', '7'), ('', '6.2'), ('', '6'), ('', '5'), ('', '5'), ('', '4.8'), ('', '4'), ('', '7'), ('', '2.5'), ('', '3.3'), ('', '3.4'), ('', '5.7'), ('', '2'), ('', '0.1'), ('', '2.5'), ('', '3.3'), ('', '6.2'), ('', '8'), ('', '6.1'), ('', '2.1'), ('', '6.2'), ('', '6.6'), ('', '1.5'), ('', '3.3'), ('', '1.8'), ('', '3.7'), ('', '1.3'), ('', '0.9'), ('', '3.7'), ('', '1.6'), ('', '4'), ('', '7'), ('', '2.2'), ('', '3'), ('', '4.4'), ('', '5.1'), ('', '0.7'), ('', '2.5'), ('', '2.6'), ('', '3'), ('', '2.7'), ('', '4.1'), ('', '5.8'), ('', '4'), ('', '6'), ('', '4.2'), ('', '4.8'), ('', '2.7'), ('', '1.7'), ('', '1.1'), ('', '1.3'), ('', '2.4'), ('', '2.9'), ('', '2.7'), ('', '4.9'), ('', '6.6'), ('', '3'), ('', '4'), ('', '3'), ('', '5.6'), ('', '5'), ('', '1.6'), ('', '2.8'), ('', '3.4'), ('', '4.3'), ('', '2.2'), ('', '2.1'), ('', '1.5'), ('', '4.1'), ('', '4.3'), ('', '4.3'), ('', '4.2'), ('', '2'), ('', '5.2'), ('', '6.3'), ('', '1.5'), ('', '3'), ('', '2.3'), ('', '2.5'), ('', '5.8'), ('', '1.6'), ('', '1.4'), ('', '2.9'), ('', '4.1'), ('', '4.2'), ('', '2.4'), ('', '3'), ('', '4.1'), ('', '6.4'), ('', '2'), ('', '2'), ('', '2.5'), ('', '2.8'), ('', '3.1'), ('', '1'), ('', '2'), ('', '2.7'), ('', '4.9'), ('', '3'), ('', '3.7'), ('', '2.5'), ('', '5'), ('', '2.3'), ('', '2.7'), ('', '2.2'), ('', '2.2'), ('', '2.6'), ('', '1.9'), ('', '2.6'), ('', '4.7'), ('', '5.4'), ('', '3.3'), ('', '2.1'), ('', '3.4'), ('', '2.8'), ('', '4.5'), ('', '6.2'), ('', '3'), ('', '2.2'), ('', '4'), ('', '2.1'), ('', '2.1'), ('', '2.4'), ('', '2.4'), ('', '3.8'), ('', '3.4'), ('', '4.6'), ('', '3.6'), ('', '4.1'), ('', '2.2'), ('', '3.1'), ('', '4.8'), ('', '4.6'), ('', '3.8'), ('', '6.5'), ('', '1'), ('', '2.6'), ('', '3'), ('', '3.9'), ('', '3.2'), ('', '3.3'), ('', '5'), ('', '4'), ('', '4.7'), ('', '5.6'), ('', '4.9'), ('', '3.8'), ('', '4'), ('', '2.4'), ('', '3'), ('', '4'), ('', '4.9'), ('', '2.8'), ('', '5.9'), ('', '4.7'), ('', '3.7'), ('', '5.4'), ('', '5.4'), ('', '6.7'), ('', '5.7'), ('', '3.7'), ('', '4.5'), ('', '3'), ('', '4.3'), ('', '5.8'), ('', '4.3'), ('', '3.2'), ('', '5.2'), ('', '3.9'), ('', '4.6'), ('', '1.9'), ('', '4.1'), ('', '3.9'), ('', '4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.329517,
+          34.279306
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R01080363",
+      "full station name": "ANTELOPE LK A E END OF DM",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "boles, Jerry",
+      "data": "[('', '5.3'), ('', '5.3'), ('', '3.8'), ('', '3.8'), ('', '2.4'), ('', '2.4'), ('', '1.6'), ('', '5.1'), ('', '3.5'), ('', '1.5'), ('', '4.1'), ('', '4.1'), ('', '4.3'), ('', '4.3'), ('', '3.2'), ('', '4.2'), ('', '4.2'), ('', '3.5'), ('', '3.5'), ('', '3'), ('', '3'), ('', '3.8'), ('', '3.8'), ('', '3.6'), ('', '3.6'), ('', '4.7'), ('', '2.8'), ('', '2.8'), ('', '3.6'), ('', '3.6'), ('', '3.5'), ('', '3.5'), ('', '3.6'), ('', '2.6'), ('', '3.7'), ('', '3.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.605556,
+          40.179722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273241",
+      "full station name": "SMARTS 2 Short Tank #1",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '1.25'), ('', '1'), ('', '0.75'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '6.25'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "OR002000",
+      "full station name": "Lake Oroville in North Fork Arm, Sta 2",
+      "run name": "West-Branch Feather River",
+      "run submitted by": "Vandelon, Margaret",
+      "data": "[('', '9.7'), ('', '9.7'), ('', '12.5'), ('', '12.5'), ('', '12.5'), ('', '5.5'), ('', '3.5'), ('', '5.5'), ('', '5.4'), ('', '4'), ('', '4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.488889,
+          39.617222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SJR Marker 13&14",
+      "full station name": "San Joaquin River at Markers 13 and 14",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '88'), ('', '112'), ('', '112'), ('', '106')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D3L64921266",
+      "full station name": "San Justo Res Midlake",
+      "run name": "San Justo Reservoir",
+      "run submitted by": "Janek, Jeff",
+      "data": "[('', '2.55')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.440744,
+          36.823292
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80241294",
+      "full station name": "FMWT 906",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '200')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490556,
+          38.039722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5178450",
+      "full station name": "Feather R Spawning CH",
+      "run name": "Oroville Relicensing (Lakes, Bays and Pools)",
+      "run submitted by": "Petra Lee",
+      "data": "[('', '8.1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.558278,
+          39.516028
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A3R93522318",
+      "full station name": "STONY GORGE RES NR DAM",
+      "run name": "OSI Source Points",
+      "run submitted by": "Hess, Lesly",
+      "data": "[('', '0.8'), ('', '0.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.530556,
+          39.586389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80581401",
+      "full station name": "SAN JOAQUIN R A TWITCHELL ISL",
+      "run name": "Mid Delta Boat",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '136'), ('', '18'), ('', '20'), ('', '46'), ('', '32'), ('', '32'), ('', '60'), ('', '18'), ('', '48'), ('', '28'), ('', '46'), ('', '114'), ('', '56'), ('', '66'), ('', '52'), ('', '76'), ('', '70'), ('', '70'), ('', '47'), ('', '40'), ('', '50'), ('', '50'), ('', '60'), ('', '60'), ('', '35'), ('', '52'), ('', '45'), ('', '40'), ('', '52'), ('', '64'), ('', '66'), ('', '50'), ('', '76'), ('', '70'), ('', '80'), ('', '48'), ('', '60'), ('', '60'), ('', '60'), ('', '100'), ('', '86'), ('', '80'), ('', '100'), ('', '38'), ('', '96'), ('', '86'), ('', '58')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.668056,
+          38.097222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R95360114",
+      "full station name": "FRENCHMAN LK A W END OF DM",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "boles, Jerry",
+      "data": "[('', '7'), ('', '7'), ('', '2'), ('', '2'), ('', '3.3'), ('', '4.1'), ('', '3.6'), ('', '3.5'), ('', '2.8'), ('', '2.8'), ('', '3.1'), ('', '4.1'), ('', '4.9'), ('', '4.9'), ('', '2.7'), ('', '2.7'), ('', '2.4'), ('', '2.4'), ('', '3'), ('', '3'), ('', '3.1'), ('', '3.1'), ('', '4.1'), ('', '3.2'), ('', '2.5'), ('', '2.5'), ('', '2.8'), ('', '2.8'), ('', '2.5'), ('', '2.5'), ('', '3.3'), ('', '2.2'), ('', '2.6'), ('', '2.6'), ('', '2.3'), ('', '2.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.190556,
+          39.893611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273245",
+      "full station name": "SMARTS 2 Tall Tank #5",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '1'), ('', '1'), ('', '0.5'), ('', '1.3'), ('', '1.25'), ('', '1'), ('', '0.75'), ('', '1'), ('', '0.75'), ('', '1'), ('', '0.5'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A8000000",
+      "full station name": "Below Lisbon in Prospect Slough",
+      "run name": "Yolo Bypass 2012",
+      "run submitted by": "Philip Choy",
+      "data": "[('', '0.37'), ('', '0.4'), ('', '0.38'), ('', '0.28'), ('', '0.32'), ('', '0.39')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.665783,
+          38.274039
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KD046600",
+      "full station name": "Quali Lake Outlet",
+      "run name": "OSO (Oil Spill)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '0.8'), ('', '0.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.711944,
+          34.743611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75721192",
+      "full station name": "STOCKTON DEEP WATER CH TURN BASIN",
+      "run name": "Dissolved Oxygen Run",
+      "run submitted by": "Barnett, Riordan",
+      "data": "[('', '70'), ('', '70'), ('', '62'), ('', '62'), ('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.320000,
+          37.952500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273248",
+      "full station name": "SMARTS 2 Tall Tank #8",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.75'), ('', '0.75'), ('', '0.75'), ('', '1.5'), ('', '0.75'), ('', '1'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '1'), ('', '0.5'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80960412",
+      "full station name": "Sacramento River at Rio Vista Bridge",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.88'), ('', '0.88'), ('', '1.15'), ('', '1.15'), ('', '1.08'), ('', '1.08'), ('', '1.1'), ('', '1.1'), ('', '1.2'), ('', '1.2'), ('', '1.05'), ('', '1.05'), ('', '1.05'), ('', '1.05'), ('', '1.12'), ('', '1.12'), ('', '1.2'), ('', '1.2'), ('', '0.9'), ('', '0.9'), ('', '1.6'), ('', '1.25'), ('', '0.9'), ('', '0.95'), ('', '1.2'), ('', '1.3'), ('', '1.2'), ('', '0.95'), ('', '1.18'), ('', '1.18'), ('', '1.06')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.686355,
+          38.159737
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80471340",
+      "full station name": "SAN JOAQUIN R A POTATO PT",
+      "run name": "Mid Delta Boat",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '122'), ('', '20'), ('', '24'), ('', '52'), ('', '20'), ('', '44'), ('', '52'), ('', '68'), ('', '68'), ('', '32'), ('', '60'), ('', '120'), ('', '56'), ('', '78'), ('', '80'), ('', '98'), ('', '88'), ('', '53'), ('', '88'), ('', '60'), ('', '72'), ('', '52'), ('', '62'), ('', '56'), ('', '58'), ('', '58'), ('', '54'), ('', '60'), ('', '68'), ('', '76'), ('', '62'), ('', '90'), ('', '94'), ('', '72'), ('', '74'), ('', '80'), ('', '78'), ('', '72'), ('', '130'), ('', '130'), ('', '108'), ('', '98'), ('', '44'), ('', '116'), ('', '80'), ('', '60')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.566667,
+          38.077778
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "NZ002",
+      "full station name": "Carquinez Strait near Glencove Harbor",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '72'), ('', '72'), ('', '92'), ('', '60'), ('', '74'), ('', '53'), ('', '44'), ('', '40'), ('', '62'), ('', '56'), ('', '28'), ('', '60'), ('', '60'), ('', '52'), ('', '56'), ('', '20'), ('', '52'), ('', '50'), ('', '24'), ('', '50'), ('', '34'), ('', '54'), ('', '52'), ('', '42'), ('', '22'), ('', '60'), ('', '52'), ('', '60'), ('', '30'), ('', '52'), ('', '76'), ('', '32'), ('', '40'), ('', '34'), ('', '46'), ('', '34'), ('', '16'), ('', '56'), ('', '52'), ('', '60'), ('', '32'), ('', '64'), ('', '36'), ('', '42'), ('', '64'), ('', '60'), ('', '52'), ('', '24'), ('', '80'), ('', '32'), ('', '44'), ('', '80'), ('', '40'), ('', '59'), ('', '80'), ('', '60'), ('', '64'), ('', '64'), ('', '58'), ('', '44'), ('', '64'), ('', '70'), ('', '96'), ('', '56'), ('', '68'), ('', '100'), ('', '76'), ('', '100'), ('', '96'), ('', '80'), ('', '68'), ('', '64'), ('', '60'), ('', '62'), ('', '62'), ('', '60'), ('', '64'), ('', '46'), ('', '52'), ('', '92')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.215194,
+          38.065278
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L03470456",
+      "full station name": "EAGLE LK 14",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '4'), ('', '4.6'), ('', '4.1'), ('', '5.7'), ('', '5.7'), ('', '5.6'), ('', '5.6'), ('', '2.4'), ('', '4.6'), ('', '4.6'), ('', '5.8'), ('', '5.8'), ('', '5.9'), ('', '5.9'), ('', '8.5'), ('', '8.5'), ('', '7.3'), ('', '7.3'), ('', '8.3'), ('', '4'), ('', '4'), ('', '6.7'), ('', '6.7'), ('', '10.1'), ('', '4.2'), ('', '4.2'), ('', '3.6'), ('', '3.6'), ('', '3.4'), ('', '3.4'), ('', '4.5'), ('', '4.5'), ('', '2.9'), ('', '2.9'), ('', '4.4'), ('', '4.4'), ('', '5.5'), ('', '3.2'), ('', '3.2'), ('', '4'), ('', '4'), ('', '3.6'), ('', '3.6'), ('', '3.4'), ('', '3.4'), ('', '3.2'), ('', '3.7'), ('', '3.7'), ('', '8.4'), ('', '8.4'), ('', '7.2'), ('', '7.2'), ('', '5.4'), ('', '5.4'), ('', '3.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.760367,
+          40.577900
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE009000",
+      "full station name": "Perris Lake Island Shoreline",
+      "run name": "Reservoir Copper Treatment",
+      "run submitted by": "Bill Jordan",
+      "data": "[('', '1.6'), ('', '1.5'), ('', '1.6'), ('', '1.4'), ('', '1.6'), ('', '1.3'), ('', '1.2'), ('', '1.1'), ('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162500,
+          33.863889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A4000000",
+      "full station name": "Below Sacramento and Steamboat Slough",
+      "run name": "Yolo Bypass 2012",
+      "run submitted by": "Philip Choy",
+      "data": "[('', '1.3'), ('', '1.67'), ('', '2.2'), ('', '1.52'), ('', '2.52'), ('', '1.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.670581,
+          38.173283
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80331412",
+      "full station name": "FMWT 809",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '80')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.686111,
+          38.055556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D83441350",
+      "full station name": "Toe Drain at Interstate 80",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.19'), ('', '0.19'), ('', '0.19'), ('', '0.19'), ('', '0.2'), ('', '0.2'), ('', '0.22'), ('', '0.24'), ('', '0.24'), ('', '0.22'), ('', '0.24'), ('', '0.24'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.19'), ('', '0.16'), ('', '0.2'), ('', '0.26'), ('', '0.25'), ('', '0.24'), ('', '0.23'), ('', '0.26'), ('', '0.26'), ('', '0.25'), ('', '0.3'), ('', '0.2'), ('', '0.35'), ('', '0.28')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.582958,
+          38.573111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80281522",
+      "full station name": "FMWT 512",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '20')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.869167,
+          38.047222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA040341",
+      "full station name": "CALIFORNIA AQU A INL TO MOJAVE SI",
+      "run name": "JUNE-East-Check 66,D2",
+      "run submitted by": "Cindy Brummett",
+      "data": "[('', '4'), ('', '1.1'), ('', '2.7'), ('', '0.7'), ('', '0.5'), ('', '0.5'), ('', '0.4'), ('', '0.5'), ('', '1.7'), ('', '2.6'), ('', '0.6'), ('', '0.6'), ('', '0.6'), ('', '1.2'), ('', '0.8'), ('', '0.7'), ('', '0.7'), ('', '0.08'), ('', '0.5'), ('', '0.8'), ('', '0.8'), ('', '1'), ('', '4.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.303578,
+          34.335969
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA033232",
+      "full station name": "Aquaduct mile mark 332.32",
+      "run name": "CuSO4(application)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '0.6'), ('', '0.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.316389,
+          34.657500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R931101219",
+      "full station name": "Upstream 9",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '4.1'), ('', '4.1'), ('', '6.2'), ('', '6.2'), ('', '6.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.365044,
+          39.533193
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93301252",
+      "full station name": "Oro-4",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '5.7'), ('', '5.7'), ('', '4.1'), ('', '4.1'), ('', '4.1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.420044,
+          39.550078
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SL000000",
+      "full station name": "Pacheco Pumping Plan",
+      "run name": "JAN MONTHLY RUN",
+      "run submitted by": "Alicia Luna",
+      "data": "[('', '0'), ('', '12.7'), ('', '13.2'), ('', '19'), ('', '0')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.180647,
+          37.061925
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Brannon Island",
+      "full station name": "Brannon Island",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '86'), ('', '64'), ('', '74')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A8135000",
+      "full station name": "CACHE C NR LOWER LK",
+      "run name": "Manual Laboratory Submittal",
+      "run submitted by": "McReynolds, Scott",
+      "data": "[('', '5.7'), ('', '7.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.564722,
+          38.924722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "EOB80281550",
+      "full station name": "Sacramento River At Chipps Island",
+      "run name": "Suisun Bay 2*",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '36'), ('', '24'), ('', '56'), ('', '56'), ('', '28'), ('', '20'), ('', '20')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.917222,
+          38.046389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "C3A",
+      "full station name": "Sacramento River @ Hood",
+      "run name": "Monthly Van Run",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '180'), ('', '180'), ('', '180'), ('', '212'), ('', '180'), ('', '20'), ('', '55'), ('', '80'), ('', '120'), ('', '120'), ('', '200'), ('', '208'), ('', '90'), ('', '200'), ('', '32'), ('', '48'), ('', '53'), ('', '22'), ('', '92'), ('', '36'), ('', '116'), ('', '116'), ('', '52'), ('', '52'), ('', '80'), ('', '36'), ('', '82'), ('', '40'), ('', '16'), ('', '32'), ('', '56'), ('', '100'), ('', '100'), ('', '100'), ('', '96'), ('', '37'), ('', '64'), ('', '64'), ('', '92'), ('', '92'), ('', '120'), ('', '72'), ('', '160'), ('', '130'), ('', '120'), ('', '40'), ('', '138'), ('', '56'), ('', '100'), ('', '66'), ('', '66'), ('', '102'), ('', '60'), ('', '60'), ('', '44'), ('', '84'), ('', '80'), ('', '70'), ('', '76'), ('', '72'), ('', '80'), ('', '60'), ('', '88'), ('', '96'), ('', '140'), ('', '76'), ('', '84'), ('', '88'), ('', '100'), ('', '80'), ('', '80'), ('', '80'), ('', '88'), ('', '87'), ('', '120'), ('', '120'), ('', '108'), ('', '88'), ('', '76'), ('', '96'), ('', '112'), ('', '126'), ('', '280'), ('', '180'), ('', '180'), ('', '130'), ('', '184'), ('', '175'), ('', '216'), ('', '152'), ('', '98'), ('', '204'), ('', '112'), ('', '30'), ('', '184'), ('', '200'), ('', '212'), ('', '50'), ('', '40'), ('', '36'), ('', '78'), ('', '181'), ('', '180'), ('', '20')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.520500,
+          38.367722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80612048",
+      "full station name": "FMWT 418",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '24')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.063333,
+          38.101111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06234794270289",
+      "full station name": "Toe Drain@I80",
+      "run name": "Yolo Bypass 2012",
+      "run submitted by": "Frantzich, Jared",
+      "data": "[('', '0.26'), ('', '0.31'), ('', '0.31'), ('', '0.31'), ('', '0.31'), ('', '0.32'), ('', '0.35')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.582528,
+          38.722472
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "San Mound Slough",
+      "full station name": "San Mound Slough",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '134'), ('', '124'), ('', '130')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KB000975",
+      "full station name": "Patterson Pass Rd",
+      "run name": "Patterson Check",
+      "run submitted by": "Taliaferro, Mike",
+      "data": "[('', '0')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.679389,
+          37.694417
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA000331",
+      "full station name": "Delta P.P. Headworks at H.O. Banks PP",
+      "run name": "Monthly WQ",
+      "run submitted by": "Thompson, Doug",
+      "data": "[('', '0.9'), ('', '0.4'), ('', '0.6'), ('', '0.6'), ('', '0.6'), ('', '0.4'), ('', '0.4'), ('', '0.4'), ('', '0.3'), ('', '0.7'), ('', '0.7'), ('', '0.7'), ('', '0.6'), ('', '0.4'), ('', '0.9'), ('', '0.4'), ('', '0.5'), ('', '0.3'), ('', '0.6'), ('', '0.6'), ('', '0.6'), ('', '0.6'), ('', '0.6'), ('', '0.9'), ('', '0.6'), ('', '0.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.620278,
+          37.801944
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93151208",
+      "full station name": "Upstream 8",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '2.7'), ('', '2.7'), ('', '4.9'), ('', '4.9'), ('', '4.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.347081,
+          39.525768
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80261251",
+      "full station name": "DISAPPOINTMENT SLU A BISHOP CUT",
+      "run name": "Mid Delta Boat",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '152'), ('', '56'), ('', '52'), ('', '108'), ('', '56'), ('', '90'), ('', '68'), ('', '72'), ('', '116'), ('', '140'), ('', '92'), ('', '59'), ('', '60'), ('', '70'), ('', '120'), ('', '74'), ('', '70'), ('', '59'), ('', '68'), ('', '96'), ('', '112'), ('', '88'), ('', '76'), ('', '71'), ('', '70'), ('', '96'), ('', '128'), ('', '80'), ('', '84'), ('', '120'), ('', '130'), ('', '68'), ('', '86'), ('', '116'), ('', '128'), ('', '98'), ('', '88'), ('', '176'), ('', '140'), ('', '116'), ('', '156'), ('', '138'), ('', '164'), ('', '170'), ('', '98')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.417778,
+          38.043889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80521388",
+      "full station name": "FMWT 812",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '100')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.646944,
+          38.086389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "DMC06716",
+      "full station name": "DMC@McCabe Rd Nr. Check 12",
+      "run name": "Jan Monthly Run 2001",
+      "run submitted by": "Anaya, Pam",
+      "data": "[('', '0.4'), ('', '16.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.038606,
+          37.126933
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5430010",
+      "full station name": "Indian Creek upstream from Arlington Bridge",
+      "run name": "SWCMP (Upper Feather R)",
+      "run submitted by": "David Grant",
+      "data": "[('', '0')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.917000,
+          40.084300
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D82071327",
+      "full station name": "Sacramento River at Greene's Ldg.",
+      "run name": "Monthly Van Run",
+      "run submitted by": "Waller, Scott",
+      "data": "[('', '120'), ('', '104'), ('', '18'), ('', '22'), ('', '38'), ('', '40'), ('', '56'), ('', '104'), ('', '24'), ('', '24'), ('', '96'), ('', '116'), ('', '112'), ('', '80'), ('', '80'), ('', '120'), ('', '92'), ('', '100'), ('', '82'), ('', '86'), ('', '96'), ('', '96'), ('', '100'), ('', '100'), ('', '120'), ('', '90'), ('', '88'), ('', '84'), ('', '108'), ('', '108'), ('', '88'), ('', '120'), ('', '12'), ('', '100'), ('', '158'), ('', '100'), ('', '20'), ('', '140'), ('', '50')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.545000,
+          38.345833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06271144273242",
+      "full station name": "SMARTS 2 Short Tank #2",
+      "run name": "Bi-weekly lab samples",
+      "run submitted by": "DuVall, Robert",
+      "data": "[('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '1.25'), ('', '1'), ('', '0.75'), ('', '0.75'), ('', '0.75'), ('', '0.75'), ('', '6.75'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540278,
+          38.598611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA001000",
+      "full station name": "Castaic Lake at Inlet",
+      "run name": "Castaic (Vessel Down)",
+      "run submitted by": "stephenson, Della",
+      "data": "[('', '0.9'), ('', '1.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.628944,
+          34.558750
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "C10A",
+      "full station name": "San Joaquin River near Vernalis @ SJR Club",
+      "run name": "Monthly Van Run",
+      "run submitted by": "Melanie LeGro",
+      "data": "[('', '180'), ('', '96')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.264722,
+          37.679333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80151401",
+      "full station name": "FMWT 711",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '80')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.668889,
+          38.175000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80991372",
+      "full station name": "FMWT 717 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '248')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.619167,
+          38.164444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D804415610",
+      "full station name": "FMWT 519 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '48')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.933056,
+          38.073611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93681057",
+      "full station name": "SLY C RES NR S END OF DM",
+      "run name": "UFR Lakes (Sly Creek Res/LGVR)",
+      "run submitted by": "Peter Coombe",
+      "data": "[('', '8'), ('', '8'), ('', '4'), ('', '3'), ('', '3'), ('', '5.6'), ('', '5.6'), ('', '4.6'), ('', '4'), ('', '4.6'), ('', '4.6'), ('', '3.7'), ('', '3.7'), ('', '5.4'), ('', '4.6'), ('', '4.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.095833,
+          39.613889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D84331398",
+      "full station name": "Ridge Cut Slough above Wallace Weir",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Haley Carlson",
+      "data": "[('', '0.24'), ('', '0.24'), ('', '0.24')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.663833,
+          38.722344
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80331307",
+      "full station name": "FMWT 906",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '192')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.511111,
+          38.055556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A1030000",
+      "full station name": "Woodland Wastewater Discharge at Toe Drain",
+      "run name": "YB - Fall Study from 0310 -KP",
+      "run submitted by": "Angelica Munguia",
+      "data": "[('', '0.35'), ('', '0.61')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.645775,
+          38.681621
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "WEW00D3",
+      "full station name": "WEW Oil and Grease",
+      "run name": "WEW Oil Spill",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '4.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.783333,
+          34.683333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "DMC06715",
+      "full station name": "Delta Mendota Canal mi 67.15, McCabe Rd",
+      "run name": "JAN MONTHLY RUN",
+      "run submitted by": "Mattos, Bob",
+      "data": "[('', '2'), ('', '0.5'), ('', '2'), ('', '3'), ('', '3'), ('', '2'), ('', '2'), ('', '1'), ('', '1'), ('', '3'), ('', '1'), ('', '3'), ('', '0.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.038611,
+          37.126972
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D84761435",
+      "full station name": "Ridge Cut Slough at Knights Landing",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Haley Carlson",
+      "data": "[('', '0.26'), ('', '0.26'), ('', '0.28'), ('', '0.28'), ('', '0.22'), ('', '0.22'), ('', '0.3'), ('', '0.3'), ('', '0.27'), ('', '0.28'), ('', '0.21'), ('', '0.15'), ('', '0.28'), ('', '0.3'), ('', '0.3'), ('', '0.25'), ('', '0.25'), ('', '0.28'), ('', '0.26'), ('', '0.33'), ('', '0.29'), ('', '0.35')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.725000,
+          38.793500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE002000",
+      "full station name": "Lake Perris Outlet",
+      "run name": "JAN-East",
+      "run submitted by": "Cindy Brummett",
+      "data": "[('', '2'), ('', '4'), ('', '2'), ('', '0.8'), ('', '1'), ('', '1'), ('', '5'), ('', '5'), ('', '3'), ('', '2.3'), ('', '2.5'), ('', '2'), ('', '1.8'), ('', '3'), ('', '2.6'), ('', '2.5'), ('', '3.5'), ('', '4'), ('', '3'), ('', '1.4'), ('', '2.3'), ('', '1.5'), ('', '1.4'), ('', '1.4'), ('', '2'), ('', '1.9'), ('', '3.2'), ('', '2.6'), ('', '1.7'), ('', '7'), ('', '4'), ('', '5.3'), ('', '2.2'), ('', '2.9'), ('', '1.3'), ('', '1.8'), ('', '1'), ('', '1.2'), ('', '2.1'), ('', '3.1'), ('', '2.6'), ('', '2'), ('', '2.7'), ('', '8.5'), ('', '6'), ('', '6.8'), ('', '6'), ('', '1.9'), ('', '1.4'), ('', '2.3'), ('', '2'), ('', '4.5'), ('', '2.4'), ('', '1.8'), ('', '4.1'), ('', '6.1'), ('', '5.6'), ('', '4'), ('', '5'), ('', '1.8'), ('', '2.4'), ('', '5.5'), ('', '0.2'), ('', '1.5'), ('', '1.7'), ('', '1.3'), ('', '2'), ('', '2.8'), ('', '2.2'), ('', '3.8'), ('', '5.4'), ('', '3.2'), ('', '4.4'), ('', '4'), ('', '1.2'), ('', '2.7'), ('', '4'), ('', '1.7'), ('', '2.5'), ('', '1.9'), ('', '1.4'), ('', '2.3'), ('', '2.3'), ('', '2.2'), ('', '1.8'), ('', '2.8'), ('', '2.2'), ('', '2.7'), ('', '4'), ('', '5.8'), ('', '6'), ('', '7.1'), ('', '3.6'), ('', '4.2'), ('', '3.5'), ('', '1.2'), ('', '1.4'), ('', '1.5'), ('', '1.9'), ('', '2.1'), ('', '2.1'), ('', '2.2'), ('', '4.5'), ('', '7.5'), ('', '3.9'), ('', '3.8'), ('', '3.7'), ('', '2.2'), ('', '1.4'), ('', '1.4'), ('', '1.5'), ('', '1'), ('', '1.4'), ('', '2.2'), ('', '2.5'), ('', '2.5'), ('', '1.7'), ('', '4.2'), ('', '5'), ('', '4.2'), ('', '4.2'), ('', '3.4'), ('', '4.3'), ('', '4.4'), ('', '4'), ('', '3.5'), ('', '2.1'), ('', '1.4'), ('', '0.2'), ('', '0.7'), ('', '0.7'), ('', '1.7'), ('', '2.1'), ('', '2.2'), ('', '2.2'), ('', '1.3'), ('', '1.3'), ('', '1.8'), ('', '3.6'), ('', '3.7'), ('', '4.6'), ('', '4.6'), ('', '3'), ('', '5'), ('', '3.3'), ('', '3.1'), ('', '2.1'), ('', '1.4'), ('', '1.6'), ('', '1.6'), ('', '1.6'), ('', '1.2'), ('', '1.3'), ('', '1.3'), ('', '1.2'), ('', '1.5'), ('', '1.4'), ('', '1.4'), ('', '1.3'), ('', '2.5'), ('', '1.8'), ('', '1.8'), ('', '5'), ('', '3'), ('', '4.6'), ('', '4.1'), ('', '4'), ('', '2.2'), ('', '2.6'), ('', '2.8'), ('', '2.8'), ('', '3.3'), ('', '1.5'), ('', '2'), ('', '1.6'), ('', '1.6'), ('', '1.9'), ('', '1.7'), ('', '2.5'), ('', '2.3'), ('', '2.3'), ('', '2.3'), ('', '2.4'), ('', '1.4'), ('', '4.4'), ('', '6.2'), ('', '4'), ('', '3.7'), ('', '3.4'), ('', '3.2'), ('', '3.6'), ('', '2.6'), ('', '3.6'), ('', '2.9'), ('', '1.2'), ('', '1.4'), ('', '1.3'), ('', '1.3'), ('', '1.3'), ('', '2'), ('', '2.1'), ('', '1.7'), ('', '1.8'), ('', '4.1'), ('', '4.5'), ('', '6'), ('', '2.5'), ('', '2.5'), ('', '2.5'), ('', '2.5'), ('', '1.5'), ('', '1.4'), ('', '1'), ('', '2.3'), ('', '2.7'), ('', '2.3'), ('', '2.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.176375,
+          33.839878
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81461419",
+      "full station name": "FMWT 716 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '28')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.698056,
+          38.243611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A8L90382519",
+      "full station name": "CLEAR LK 15-UP ARM CL-1",
+      "run name": "Clear Lake without Cache C (Metals)",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '2'), ('', '2'), ('', '3'), ('', '3'), ('', '3.6'), ('', '3.6'), ('', '3.6'), ('', '2'), ('', '2'), ('', '1.05'), ('', '1.05'), ('', '0.5'), ('', '0.5'), ('', '1'), ('', '1'), ('', '1.5'), ('', '1.5'), ('', '2.2'), ('', '1.7'), ('', '7.3'), ('', '1.2'), ('', '3.4'), ('', '0.9'), ('', '1.4'), ('', '0.7'), ('', '1.5'), ('', '2.6'), ('', '1.6'), ('', '4.6'), ('', '4.6'), ('', '4.6'), ('', '1.2'), ('', '3.4'), ('', '2.9'), ('', '1.1'), ('', '1.6'), ('', '2.1'), ('', '1.9'), ('', '4.1'), ('', '4.1'), ('', '1.7'), ('', '1.7'), ('', '5'), ('', '3.5'), ('', '3.5'), ('', '3.1'), ('', '1.8'), ('', '2.6'), ('', '2.6'), ('', '2.2'), ('', '2.2'), ('', '3.3'), ('', '3.3'), ('', '3.3'), ('', '1.8'), ('', '5.1'), ('', '4.7'), ('', '1.4'), ('', '2.8'), ('', '3.9'), ('', '4.2'), ('', '6.4'), ('', '6.4'), ('', '5.5'), ('', '5.5'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '5.3'), ('', '1.5'), ('', '4.9'), ('', '3.2'), ('', '4'), ('', '1.1'), ('', '0.7'), ('', '6.4'), ('', '6.4'), ('', '6.1'), ('', '6.1'), ('', '1.1'), ('', '1'), ('', '4.4'), ('', '4.4'), ('', '2.8'), ('', '2.8'), ('', '2.8'), ('', '1.3'), ('', '1.75'), ('', '1.2'), ('', '0.6'), ('', '0.8'), ('', '0.7'), ('', '1.8'), ('', '1.8'), ('', '2.2'), ('', '2.2'), ('', '2.2'), ('', '2.5'), ('', '2.5'), ('', '1.3'), ('', '0.75'), ('', '0.7'), ('', '0.8'), ('', '0.9'), ('', '2.2'), ('', '1.4'), ('', '1.4'), ('', '1.9'), ('', '1.9'), ('', '2.5'), ('', '2.5'), ('', '1.3'), ('', '0.8'), ('', '1.2'), ('', '1.2'), ('', '0.9'), ('', '1'), ('', '1.9'), ('', '3.5'), ('', '1.6'), ('', '1.6'), ('', '1.1'), ('', '1.4'), ('', '2.05'), ('', '1'), ('', '0.9'), ('', '1.3'), ('', '1.4'), ('', '2.1'), ('', '2.1'), ('', '1.3'), ('', '1.3'), ('', '2'), ('', '2'), ('', '2'), ('', '1'), ('', '1'), ('', '1'), ('', '2.2'), ('', '5.5'), ('', '5.5'), ('', '5.5'), ('', '2.5'), ('', '2.5'), ('', '2.2'), ('', '2.2'), ('', '3.5'), ('', '3.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.865000,
+          39.063333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KG002121",
+      "full station name": "NORTH BAY AQUEDUCT CORDELIA PP",
+      "run name": "Quarterly WQ",
+      "run submitted by": "Thompson, Doug",
+      "data": "[('', '0.1'), ('', '0.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.138889,
+          38.215556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R936111810",
+      "full station name": "Upstream 6",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '6.3'), ('', '6.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.316387,
+          39.601890
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "DV001000",
+      "full station name": "Lake Del Valle at Glory Hole",
+      "run name": "Del Valle Profile",
+      "run submitted by": "Thompson, Doug",
+      "data": "[('', '4.1'), ('', '3.9'), ('', '6'), ('', '1.9'), ('', '4.6'), ('', '1.5'), ('', '2.3'), ('', '1'), ('', '2.5'), ('', '1.8'), ('', '1.8'), ('', '1'), ('', '7.5'), ('', '2.5'), ('', '3.2'), ('', '3.2'), ('', '3.2'), ('', '2.5'), ('', '2.3'), ('', '2.4'), ('', '1.8'), ('', '1.8'), ('', '1.8'), ('', '1.8'), ('', '1.8'), ('', '1.8'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '1.5'), ('', '1.5'), ('', '4'), ('', '4'), ('', '4'), ('', '4'), ('', '2.8'), ('', '2.5'), ('', '5.2'), ('', '2.3'), ('', '3'), ('', '3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.744722,
+          37.614722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80381492",
+      "full station name": "SACRAMENTO R AB PT SACRAMENTO",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '56'), ('', '58'), ('', '18'), ('', '34'), ('', '36'), ('', '52'), ('', '22'), ('', '38'), ('', '34'), ('', '42'), ('', '42'), ('', '24'), ('', '36'), ('', '52'), ('', '52'), ('', '42'), ('', '40'), ('', '40'), ('', '52'), ('', '36'), ('', '38'), ('', '34'), ('', '22'), ('', '30'), ('', '24'), ('', '24'), ('', '38'), ('', '30'), ('', '36'), ('', '24'), ('', '44'), ('', '44'), ('', '34'), ('', '64'), ('', '32'), ('', '35'), ('', '34'), ('', '36'), ('', '30'), ('', '38'), ('', '90'), ('', '15'), ('', '48'), ('', '20'), ('', '40'), ('', '18'), ('', '58'), ('', '40')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.819444,
+          38.062500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D84061386",
+      "full station name": "Toe Drain at County Road 22",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.22'), ('', '0.22'), ('', '0.22'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.33'), ('', '0.33'), ('', '0.28'), ('', '0'), ('', '0.28'), ('', '0.34'), ('', '0.34'), ('', '0.34'), ('', '0.29'), ('', '0.29'), ('', '0.29'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.25'), ('', '0.25'), ('', '0.25'), ('', '0.36'), ('', '0.41'), ('', '0.48'), ('', '0.22'), ('', '0.45'), ('', '0.45'), ('', '0.31'), ('', '0.31'), ('', '0.39'), ('', '0.43'), ('', '0.33'), ('', '0.24'), ('', '0.21'), ('', '0.32'), ('', '0.4'), ('', '0.47')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.643972,
+          38.676367
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93231313",
+      "full station name": "The-2",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '5.4'), ('', '5.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.522341,
+          39.538673
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE008000",
+      "full station name": "Castaic Station Midway betw PE002000 and PE005000",
+      "run name": "CuSO4",
+      "run submitted by": "jordan, William",
+      "data": "[('', '5.4'), ('', '3.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.175278,
+          33.848333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5545005",
+      "full station name": "BIG GRIZZLY C A HWY 40A",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "boles, Jerry",
+      "data": "[('', '7'), ('', '19.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.437778,
+          39.820833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75971247",
+      "full station name": "FMWT 911 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '128')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.411111,
+          37.994722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KB001638",
+      "full station name": "South Bay Aqueduct Del Valle Check 7",
+      "run name": "Manual Laboratory Submittal",
+      "run submitted by": "kassahn, Eric",
+      "data": "[('', '2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.741939,
+          37.654678
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D800112610",
+      "full station name": "FMWT 910",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '144')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.449722,
+          38.000833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93541285",
+      "full station name": "Oro-2",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '4.7'), ('', '4.7'), ('', '4'), ('', '4'), ('', '4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.474837,
+          39.590641
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "P8",
+      "full station name": "San Joaquin River @ Buckley Cove",
+      "run name": "Mid Delta Day 2",
+      "run submitted by": "Waller",
+      "data": "[('', '64'), ('', '220'), ('', '292'), ('', '104'), ('', '220'), ('', '164'), ('', '164'), ('', '132'), ('', '140'), ('', '140'), ('', '148'), ('', '144'), ('', '80'), ('', '152'), ('', '112'), ('', '154'), ('', '34'), ('', '56'), ('', '248'), ('', '120'), ('', '48'), ('', '76'), ('', '62'), ('', '80'), ('', '40'), ('', '104'), ('', '96'), ('', '232'), ('', '52'), ('', '110'), ('', '52'), ('', '184'), ('', '42'), ('', '58'), ('', '76'), ('', '84'), ('', '102'), ('', '84'), ('', '94'), ('', '56'), ('', '140'), ('', '46'), ('', '64'), ('', '98'), ('', '92'), ('', '136'), ('', '32'), ('', '96'), ('', '62'), ('', '76'), ('', '88'), ('', '72'), ('', '104'), ('', '76'), ('', '124'), ('', '36'), ('', '50'), ('', '50'), ('', '50'), ('', '60'), ('', '84'), ('', '84'), ('', '84'), ('', '60'), ('', '64'), ('', '132'), ('', '48'), ('', '52'), ('', '48'), ('', '54'), ('', '66'), ('', '66'), ('', '78'), ('', '48'), ('', '104'), ('', '144'), ('', '144'), ('', '66'), ('', '72'), ('', '60'), ('', '50'), ('', '50'), ('', '70'), ('', '86'), ('', '86'), ('', '86'), ('', '92'), ('', '80'), ('', '64'), ('', '120'), ('', '128'), ('', '80'), ('', '90'), ('', '84'), ('', '80'), ('', '60'), ('', '60'), ('', '108'), ('', '108'), ('', '144'), ('', '140'), ('', '140'), ('', '56'), ('', '100'), ('', '110'), ('', '140'), ('', '92'), ('', '232'), ('', '98'), ('', '64'), ('', '84'), ('', '84'), ('', '194'), ('', '196'), ('', '168'), ('', '156'), ('', '112'), ('', '102'), ('', '108'), ('', '122'), ('', '104'), ('', '120'), ('', '156'), ('', '148'), ('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.382306,
+          37.978167
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R94351011",
+      "full station name": "L GRASS VLY RES A DM",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "Lee, Petra",
+      "data": "[('', '5'), ('', '5'), ('', '5.3'), ('', '4'), ('', '4'), ('', '6.1'), ('', '6.2'), ('', '9.4'), ('', '6.5'), ('', '5.4'), ('', '5.4'), ('', '5.7'), ('', '5.7'), ('', '5.7'), ('', '5.7'), ('', '8.5'), ('', '2.6'), ('', '2.6'), ('', '4.8'), ('', '4.8'), ('', '6.2'), ('', '4.3'), ('', '4.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.017500,
+          39.724722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R937101170",
+      "full station name": "LAKE OROVILE MIDDLE FORK NEAR FREY CREEK",
+      "run name": "LK Oroville Special Runs",
+      "run submitted by": "Perry LeBeouf",
+      "data": "[('', '1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.283830,
+          39.633117
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "J06179704281767",
+      "full station name": "Tule Canal at Road 22",
+      "run name": "Yolo Bypass 2012",
+      "run submitted by": "Frantzich, Jared",
+      "data": "[('', '0.33'), ('', '0.34'), ('', '0.31'), ('', '0.35')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.643806,
+          38.676642
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA041288",
+      "full station name": "California Aqueduct at Devil Canyon Afterbay",
+      "run name": "JAN-East",
+      "run submitted by": "Jordan, William",
+      "data": "[('', '2.6'), ('', '1.3'), ('', '2.4'), ('', '1'), ('', '2.4'), ('', '1.3'), ('', '2'), ('', '1.6'), ('', '1.5'), ('', '1.6'), ('', '2.1'), ('', '2'), ('', '2.2'), ('', '1.7'), ('', '1.8'), ('', '2'), ('', '1.9'), ('', '2.2'), ('', '1.9'), ('', '2.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.334167,
+          34.201111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA006633",
+      "full station name": "CALIFORNIA AQUEDUCT NEAR CHECK 12",
+      "run name": "JAN MONTHLY RUN",
+      "run submitted by": "Bob Mattos",
+      "data": "[('', '1'), ('', '1'), ('', '1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.057194,
+          37.118333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R00721088",
+      "full station name": "BUTT VALLEY RESERVOIR NEAR DAM",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "Atkinson, Amanda",
+      "data": "[('', '7.3'), ('', '7.3'), ('', '5.1'), ('', '3.5'), ('', '5.7'), ('', '5.7'), ('', '4.8'), ('', '5.3'), ('', '5.3'), ('', '6.5'), ('', '6.5'), ('', '4.5'), ('', '4.5'), ('', '3.9'), ('', '3.9'), ('', '5.5'), ('', '4.3'), ('', '4.3'), ('', '3.2'), ('', '3.2'), ('', '3.6'), ('', '3.6'), ('', '4.2'), ('', '7.1'), ('', '7.1'), ('', '6.6'), ('', '6.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.147222,
+          40.120000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Mildred",
+      "full station name": "Mildred Island",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '112'), ('', '100'), ('', '116')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KG000000",
+      "full station name": "North Bay Aqueduct at Barker Slough Pumping Plant",
+      "run name": "Monthly WQ",
+      "run submitted by": "Thompson, Doug",
+      "data": "[('', '0.4'), ('', '0.4'), ('', '0.4'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.53'), ('', '0.3'), ('', '0.4'), ('', '0.3'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.796472,
+          38.275869
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "RSAC040",
+      "full station name": "San Pablo Bay at Light 15",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "triboli, Kitty",
+      "data": "[('', '36'), ('', '60'), ('', '27'), ('', '48'), ('', '20'), ('', '24'), ('', '16'), ('', '42'), ('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288889,
+          38.057778
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KB004207",
+      "full station name": "South Bay Aqueduct at Santa Clara Terminal",
+      "run name": "Quarterly WQ",
+      "run submitted by": "Thompson, Doug",
+      "data": "[('', '1.1'), ('', '0.8'), ('', '1'), ('', '0.8'), ('', '0.7'), ('', '0.9'), ('', '0.6'), ('', '1.4'), ('', '0.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.838889,
+          37.407222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "MD10A",
+      "full station name": "Disappointment Slough @ Bishop Cut",
+      "run name": "Mid Delta Day 2",
+      "run submitted by": "Waller",
+      "data": "[('', '65'), ('', '392'), ('', '292'), ('', '240'), ('', '248'), ('', '246'), ('', '272'), ('', '196'), ('', '128'), ('', '182'), ('', '182'), ('', '260'), ('', '164'), ('', '364'), ('', '272'), ('', '186'), ('', '50'), ('', '70'), ('', '276'), ('', '176'), ('', '80'), ('', '104'), ('', '80'), ('', '42'), ('', '56'), ('', '140'), ('', '106'), ('', '160'), ('', '160'), ('', '96'), ('', '136'), ('', '200'), ('', '296'), ('', '76'), ('', '60'), ('', '134'), ('', '150'), ('', '124'), ('', '134'), ('', '134'), ('', '64'), ('', '56'), ('', '110'), ('', '110'), ('', '180'), ('', '140'), ('', '140'), ('', '110'), ('', '140'), ('', '102'), ('', '84'), ('', '60'), ('', '140'), ('', '84'), ('', '192'), ('', '84'), ('', '160'), ('', '108'), ('', '92'), ('', '100'), ('', '56'), ('', '130'), ('', '190'), ('', '156'), ('', '156'), ('', '116'), ('', '160'), ('', '68'), ('', '112'), ('', '92'), ('', '92'), ('', '56'), ('', '124'), ('', '132'), ('', '108'), ('', '180'), ('', '204'), ('', '184'), ('', '112'), ('', '35'), ('', '100'), ('', '136'), ('', '136'), ('', '136'), ('', '156'), ('', '116'), ('', '200'), ('', '140'), ('', '117'), ('', '136'), ('', '148'), ('', '112'), ('', '76'), ('', '120'), ('', '120'), ('', '216'), ('', '200'), ('', '184'), ('', '120'), ('', '140'), ('', '154'), ('', '200'), ('', '200'), ('', '288'), ('', '170'), ('', '96'), ('', '180'), ('', '215'), ('', '215'), ('', '362'), ('', '165'), ('', '204'), ('', '236'), ('', '254'), ('', '150'), ('', '248'), ('', '220'), ('', '204'), ('', '228'), ('', '120')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.419889,
+          38.042250
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75991271",
+      "full station name": "FMWT 910",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '150')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.451944,
+          37.997500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KG002111",
+      "full station name": "CORDELIA RESERVOIR AT PUMP INTAKE",
+      "run name": "Manual Laboratory Submittal",
+      "run submitted by": "Gage, Dick",
+      "data": "[('', '0.5'), ('', '0.3'), ('', '0.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.134678,
+          38.227578
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80121485",
+      "full station name": "SAN JOAQUIN R A ANTIOCH-SHIP CH",
+      "run name": "Suisun Bay 2*",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '64'), ('', '64'), ('', '62'), ('', '28'), ('', '28'), ('', '28'), ('', '28'), ('', '32'), ('', '24'), ('', '32'), ('', '38'), ('', '38'), ('', '58'), ('', '40'), ('', '54'), ('', '48'), ('', '36'), ('', '36'), ('', '48'), ('', '40'), ('', '48'), ('', '52'), ('', '52'), ('', '40'), ('', '44'), ('', '22'), ('', '36'), ('', '40'), ('', '38'), ('', '34'), ('', '32'), ('', '32'), ('', '42'), ('', '41'), ('', '44'), ('', '44'), ('', '40'), ('', '50'), ('', '52'), ('', '40'), ('', '40'), ('', '52'), ('', '56'), ('', '52'), ('', '54'), ('', '54'), ('', '76'), ('1/0/1900', '110'), ('', '60'), ('', '18'), ('', '52'), ('', '38'), ('', '76'), ('', '70'), ('', '44')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.807778,
+          38.020833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75830382",
+      "full station name": "Lt 48",
+      "run name": "Dissolved Oxygen Run",
+      "run submitted by": "Aldrich, Gehrts",
+      "data": "[('', '32'), ('', '40')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.636667,
+          37.970833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R94041301",
+      "full station name": "Upstream 1",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '4.4'), ('', '4.4'), ('', '2.4'), ('', '2.4'), ('', '2.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.501691,
+          39.673887
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE001000",
+      "full station name": "Lake Perris Inlet",
+      "run name": "CuSO4",
+      "run submitted by": "jordan, William",
+      "data": "[('', '4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194175,
+          33.859914
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80371488",
+      "full station name": "FMWT 703",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '120')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.796944,
+          38.061111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Light 6",
+      "full station name": "Light 6",
+      "run name": "Dissolved Oxygen Run Modified",
+      "run submitted by": "Melanie LeGro",
+      "data": "[('', '144'), ('', '224'), ('', '92'), ('', '156'), ('', '198'), ('', '140'), ('', '134'), ('', '124'), ('', '200'), ('', '230'), ('', '214'), ('', '200'), ('', '176'), ('', '102'), ('', '108'), ('', '132'), ('', '180'), ('', '88'), ('', '180'), ('', '72'), ('', '54'), ('', '122'), ('', '156'), ('', '122'), ('', '140'), ('', '136'), ('', '112'), ('', '132'), ('', '94'), ('', '74'), ('', '86'), ('', '96'), ('', '160'), ('', '178'), ('', '172'), ('', '208'), ('', '104'), ('', '156'), ('', '124'), ('', '142'), ('', '186'), ('', '120'), ('', '150'), ('', '172'), ('', '194'), ('', '200'), ('', '244'), ('', '132'), ('', '180'), ('', '220'), ('', '196'), ('', '186'), ('', '212'), ('', '181'), ('', '224'), ('', '224'), ('', '148'), ('', '132'), ('', '190'), ('', '218'), ('', '288'), ('', '304'), ('', '192'), ('', '208'), ('', '224'), ('', '288'), ('', '138'), ('', '192'), ('', '244'), ('', '218'), ('', '218'), ('', '218'), ('', '198'), ('', '208'), ('', '196'), ('', '140'), ('', '172'), ('', '288'), ('', '220'), ('', '245'), ('', '220'), ('', '362'), ('', '240'), ('', '256'), ('', '282'), ('', '288'), ('', '140')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80371528",
+      "full station name": "FMWT 513",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '48')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.863889,
+          38.061111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D16",
+      "full station name": "San Joaquin River @ Twitchell Island",
+      "run name": "Mid Delta Day 2",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '76'), ('', '148'), ('', '148'), ('', '156'), ('', '88'), ('', '88'), ('', '92'), ('', '88'), ('', '116'), ('', '100'), ('', '124'), ('', '168'), ('', '110'), ('', '40'), ('', '40'), ('', '24'), ('', '24'), ('', '100'), ('', '100'), ('', '84'), ('', '152'), ('', '48'), ('', '52'), ('', '112'), ('', '24'), ('', '104'), ('', '30'), ('', '84'), ('', '100'), ('', '124'), ('', '120'), ('', '60'), ('', '64'), ('', '92'), ('', '48'), ('', '92'), ('', '84'), ('', '104'), ('', '74'), ('', '172'), ('', '88'), ('', '50'), ('', '86'), ('', '86'), ('', '105'), ('', '32'), ('', '116'), ('', '100'), ('', '112'), ('', '80'), ('', '100'), ('', '120'), ('', '56'), ('', '70'), ('', '84'), ('', '136'), ('', '34'), ('', '72'), ('', '70'), ('', '96'), ('', '96'), ('', '96'), ('', '70'), ('', '160'), ('', '44'), ('', '94'), ('', '96'), ('', '72'), ('', '52'), ('', '80'), ('', '64'), ('', '76'), ('', '60'), ('', '80'), ('', '120'), ('', '104'), ('', '100'), ('', '96'), ('', '112'), ('', '70'), ('', '80'), ('', '102'), ('', '74'), ('', '74'), ('', '74'), ('', '96'), ('', '104'), ('', '84'), ('', '70'), ('', '132'), ('', '96'), ('', '196'), ('', '100'), ('', '132'), ('', '132'), ('', '112'), ('', '124'), ('', '124'), ('', '112'), ('', '90'), ('', '136'), ('', '92'), ('', '85'), ('', '208'), ('', '112'), ('', '80'), ('', '80'), ('', '122'), ('', '116'), ('', '140'), ('', '116'), ('', '104'), ('', '140'), ('', '120'), ('', '104'), ('', '112'), ('', '100'), ('', '104'), ('', '44')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.669111,
+          38.096889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D10",
+      "full station name": "Sacramento River @ Chipps Island",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '24'), ('', '40'), ('', '64'), ('', '32'), ('', '16'), ('', '28'), ('', '40'), ('', '52'), ('', '44'), ('', '60'), ('', '56'), ('', '76'), ('', '48'), ('', '28'), ('', '36.1'), ('', '40'), ('', '20'), ('', '20'), ('', '48'), ('', '40'), ('', '40'), ('', '40'), ('', '56'), ('', '52'), ('', '46'), ('', '52'), ('', '56'), ('', '56'), ('', '54'), ('', '36'), ('', '24'), ('', '56'), ('', '28'), ('', '32'), ('', '52'), ('', '32'), ('', '24'), ('', '30'), ('', '26'), ('', '72'), ('', '52'), ('', '44'), ('', '36'), ('', '20'), ('', '20'), ('', '60'), ('', '40'), ('', '32'), ('', '40'), ('', '24'), ('', '22'), ('', '22'), ('', '32'), ('', '50'), ('', '30'), ('', '30'), ('', '20'), ('', '40'), ('', '56'), ('', '28'), ('', '32'), ('', '60'), ('', '20'), ('', '28'), ('', '48'), ('', '44'), ('', '44'), ('', '64'), ('', '28'), ('', '32'), ('', '44'), ('', '44'), ('', '36'), ('', '36'), ('', '48'), ('', '32'), ('', '32'), ('', '60'), ('', '52'), ('', '44'), ('', '44'), ('', '38'), ('', '50'), ('', '40'), ('', '76'), ('', '84'), ('', '84'), ('', '62'), ('', '52'), ('', '60'), ('', '40'), ('', '38'), ('', '72'), ('', '72'), ('', '72'), ('', '56'), ('', '76'), ('', '72'), ('', '38'), ('', '36'), ('', '84'), ('', '68'), ('', '76'), ('', '76'), ('', '32'), ('', '76'), ('', '72'), ('', '32'), ('', '76'), ('', '40'), ('', '72'), ('', '36'), ('', '60'), ('', '60'), ('', '60'), ('', '52'), ('', '60'), ('', '32'), ('', '52'), ('', '52'), ('', '50'), ('', '80'), ('', '32'), ('', '40'), ('', '40'), ('', '60'), ('', '24')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.918306,
+          38.046306
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA017226",
+      "full station name": "CALIFORNIA AQU NR KETTLEMAN CK-21",
+      "run name": "MARCH MONTHLY RUN",
+      "run submitted by": "Mattos, Bob",
+      "data": "[('', '15.6'), ('', '0.4'), ('', '3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.976917,
+          36.014244
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D12",
+      "full station name": "San Joaquin River @ Antioch Ship Channel",
+      "run name": "Mid Delta Boat Day 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '32'), ('', '52'), ('', '40'), ('', '68'), ('', '44'), ('', '80'), ('', '48'), ('', '60'), ('', '52'), ('', '44'), ('', '72'), ('', '72'), ('', '32'), ('', '36'), ('', '44'), ('', '22'), ('', '22'), ('', '52'), ('', '40'), ('', '40'), ('', '44'), ('', '68'), ('', '40'), ('', '60'), ('', '58'), ('', '56'), ('', '20'), ('', '60'), ('', '16'), ('', '48'), ('', '48'), ('', '84'), ('', '46'), ('', '72'), ('', '44'), ('', '60'), ('', '114'), ('', '24'), ('', '76'), ('', '44'), ('', '36'), ('', '100'), ('', '40'), ('', '48'), ('', '76'), ('', '64'), ('', '36'), ('', '70'), ('', '40'), ('', '34'), ('', '62'), ('', '80'), ('', '56'), ('', '56'), ('', '52'), ('', '52'), ('', '56'), ('', '40'), ('', '36'), ('', '54'), ('', '60'), ('', '104'), ('', '32'), ('', '76'), ('', '88'), ('', '50'), ('', '54'), ('', '56'), ('', '44'), ('', '52'), ('', '42'), ('', '60'), ('', '54'), ('', '52'), ('', '44'), ('', '56'), ('', '56'), ('', '92'), ('', '48'), ('', '60'), ('', '52'), ('', '50'), ('', '62'), ('', '80'), ('', '80'), ('', '64'), ('', '56'), ('', '60'), ('', '56'), ('', '60'), ('', '42'), ('', '40'), ('', '88'), ('', '88'), ('', '72'), ('', '64'), ('', '64'), ('', '80'), ('', '62'), ('', '64'), ('', '56'), ('', '56'), ('', '50'), ('', '96'), ('', '72'), ('', '52'), ('', '60'), ('', '74'), ('', '64'), ('', '68'), ('', '70'), ('', '68'), ('', '52'), ('', '56'), ('', '64'), ('', '60'), ('', '84'), ('', '44'), ('', '60'), ('', '56'), ('', '16')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.806333,
+          38.021611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81281402",
+      "full station name": "Cache Slough at Ryer Island",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.84'), ('', '0.84'), ('', '0.84'), ('', '0.84'), ('', '1.41'), ('', '1.41'), ('', '0.9'), ('', '0.9'), ('', '1.2'), ('', '1.2'), ('', '0.59'), ('', '0.59'), ('', '0.73'), ('', '0.73'), ('', '1.08'), ('', '1.08'), ('', '1.4'), ('', '1.4'), ('', '1.1'), ('', '1.5'), ('', '1.1'), ('', '0.82'), ('', '0.7'), ('', '1.1'), ('', '1.3'), ('', '1.1'), ('', '1.75'), ('', '1.15'), ('', '1.1'), ('', '1.1'), ('', '1.1')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.669200,
+          38.212800
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D19",
+      "full station name": "Frank's Tract near Russo's Landing",
+      "run name": "Mid Delta Boat Day 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '88'), ('', '132'), ('', '112'), ('', '116'), ('', '88'), ('', '112'), ('', '128'), ('', '128'), ('', '140'), ('', '164'), ('', '112'), ('', '212'), ('', '180'), ('', '120'), ('', '60'), ('', '40'), ('', '124'), ('', '100'), ('', '92'), ('', '64'), ('', '60'), ('', '130'), ('', '30'), ('', '30'), ('', '56'), ('', '32'), ('', '72'), ('', '126'), ('', '104'), ('', '76'), ('', '154'), ('', '80'), ('', '76'), ('', '60'), ('', '48'), ('', '84'), ('', '96'), ('', '76'), ('', '76'), ('', '200'), ('', '60'), ('', '122'), ('', '106'), ('', '106'), ('', '92'), ('', '90'), ('', '86'), ('', '120'), ('', '104'), ('', '92'), ('', '100'), ('', '96'), ('', '88'), ('', '88'), ('', '64'), ('', '84'), ('', '120'), ('', '184'), ('', '76'), ('', '96'), ('', '40'), ('', '124'), ('', '76'), ('', '160'), ('', '40'), ('', '40'), ('', '112'), ('', '112'), ('', '76'), ('', '68'), ('', '80'), ('', '100'), ('', '100'), ('', '80'), ('', '68'), ('', '100'), ('', '90'), ('', '80'), ('', '80'), ('', '152'), ('', '88'), ('', '124'), ('', '96'), ('', '100'), ('', '94'), ('', '94'), ('', '94'), ('', '94'), ('', '120'), ('', '100'), ('', '112'), ('', '120'), ('', '148'), ('', '88'), ('', '100'), ('', '120'), ('', '106'), ('', '120'), ('', '120'), ('', '144'), ('', '160'), ('', '140'), ('', '112'), ('', '120'), ('', '184'), ('', '134'), ('', '212'), ('', '160'), ('', '130'), ('', '124'), ('', '104'), ('', '148'), ('', '116'), ('', '120'), ('', '116'), ('', '160'), ('', '180'), ('', '132'), ('', '164'), ('', '100'), ('', '140'), ('', '128'), ('', '72')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.614778,
+          38.043750
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "NZ032",
+      "full station name": "Montezuma Slough, 2nd bend from mouth",
+      "run name": "Zoo Tow",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '20'), ('', '24'), ('', '52'), ('', '56'), ('', '52'), ('', '20'), ('', '40'), ('', '52'), ('', '52'), ('', '50'), ('', '50'), ('', '40'), ('', '52'), ('', '20'), ('', '20'), ('', '30'), ('', '52'), ('', '44'), ('', '32'), ('', '48'), ('', '40'), ('', '48'), ('', '20'), ('', '32'), ('', '18'), ('', '20'), ('', '20'), ('', '22'), ('', '36'), ('', '32'), ('', '18'), ('', '18'), ('', '18'), ('', '20'), ('', '20'), ('', '24'), ('', '24'), ('', '18'), ('', '20'), ('', '20'), ('', '18'), ('', '36'), ('', '24'), ('', '26'), ('', '20'), ('', '26'), ('', '20'), ('', '32'), ('', '32'), ('', '20'), ('', '18'), ('', '36'), ('', '30'), ('', '18'), ('', '20'), ('', '18'), ('', '28'), ('', '40'), ('', '16'), ('', '32'), ('', '20'), ('', '32'), ('', '52'), ('', '20'), ('', '32'), ('', '46'), ('', '32'), ('', '32'), ('', '40'), ('', '24'), ('', '20'), ('', '64'), ('', '16'), ('', '60'), ('', '52'), ('', '40'), ('', '40'), ('', '54'), ('', '20'), ('', '78'), ('', '50'), ('', '56'), ('', '48'), ('', '28'), ('', '48'), ('', '44'), ('', '52'), ('', '40'), ('', '29'), ('', '50'), ('', '76'), ('', '50'), ('', '36'), ('', '64'), ('', '52'), ('', '50'), ('', '40'), ('', '92'), ('', '64'), ('', '56'), ('', '56'), ('', '64'), ('', '40'), ('', '76'), ('', '54'), ('', '52'), ('', '52'), ('', '40'), ('', '84'), ('', '44'), ('', '60'), ('', '48'), ('', '38'), ('', '40'), ('', '60'), ('', '32'), ('', '44'), ('', '36'), ('', '16')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.021111,
+          38.169917
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80111404",
+      "full station name": "FMWT 711",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '108')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.672778,
+          38.168889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80682035",
+      "full station name": "FMWT 603",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '40')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.041944,
+          38.113333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L04040460",
+      "full station name": "EAGLE LK STA NO 4A",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '0.5'), ('', '2.8'), ('', '2.7'), ('', '1.9'), ('', '2.4'), ('', '3.5'), ('', '4.1'), ('', '3.6'), ('', '3.4'), ('', '2.7'), ('', '3.4'), ('', '3.5'), ('', '3.3'), ('', '3.2'), ('', '2.3'), ('', '2.8'), ('', '1.3'), ('', '1.8'), ('', '2.5'), ('', '2.3'), ('', '3'), ('', '1.6'), ('', '1.1'), ('', '1.9'), ('', '2.2'), ('', '2.3'), ('', '1.3'), ('', '3'), ('', '2.6'), ('', '1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.765833,
+          40.672500
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A51850",
+      "full station name": "Morris Ravine A MO",
+      "run name": "Oroville Relicensing (Lakes, Bays and Pools)",
+      "run submitted by": "Petra Lee",
+      "data": "[('', '9.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.538639,
+          39.547944
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E0B80702023",
+      "full station name": "GRIZZLY BAY A DOLPHIN NR SUISUN S",
+      "run name": "Zoo Tow",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '46'), ('', '22'), ('', '18'), ('', '18'), ('', '24'), ('', '23'), ('', '38'), ('', '343'), ('', '14'), ('', '36'), ('', '32'), ('', '38'), ('', '50'), ('', '16'), ('', '28'), ('', '36'), ('', '40'), ('', '20'), ('', '18'), ('', '37'), ('', '16'), ('', '16'), ('', '12'), ('', '16'), ('', '20'), ('', '28'), ('', '39'), ('', '20'), ('', '20'), ('', '30'), ('', '20'), ('', '24'), ('', '22'), ('', '22'), ('', '61'), ('', '32'), ('', '36'), ('', '35'), ('', '36'), ('', '36'), ('', '40'), ('', '28'), ('', '26'), ('', '28')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.038611,
+          38.117222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A3000000",
+      "full station name": "Knaggs Ranch - Oulet - Yolo Bypass",
+      "run name": "Yolo Bypass 2012",
+      "run submitted by": "Frantzich, Jared",
+      "data": "[('', '0.24'), ('', '0.25'), ('', '0.28'), ('', '0.32')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.641975,
+          38.702281
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E3S81082028",
+      "full station name": "SUISUN SLU A VOLANTI SLU ON JOICE",
+      "run name": "Zoo Tow",
+      "run submitted by": "Melanie LeGro",
+      "data": "[('', '28'), ('', '20'), ('', '22')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.045833,
+          38.180556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80511387",
+      "full station name": "FMWT 812 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '129')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.645278,
+          38.085278
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B0D86002600",
+      "full station name": "Light 2 at San Pablo Bay",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Noble, Brown",
+      "data": "[('', '30'), ('', '52')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.000000,
+          38.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93981306",
+      "full station name": "Upstream 3",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '4.2'), ('', '4.2'), ('', '4.3'), ('', '4.3'), ('', '4.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.509398,
+          39.663461
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA035692",
+      "full station name": "CA Aquaduct Ck 57",
+      "run name": "CuSO4 (Pre Treatment)",
+      "run submitted by": "stephenson, Della",
+      "data": "[('', '0.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.043611,
+          34.566389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80352002",
+      "full station name": "Suisun Bay",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '32')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.003056,
+          38.058333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80131449",
+      "full station name": "FMWT 806",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '36')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.747500,
+          38.021111
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5L01071051",
+      "full station name": "LK ALMANOR A IT TOWER DM",
+      "run name": "Lake Almanor 2014",
+      "run submitted by": "Perry LeBeouf",
+      "data": "[('', '5.6'), ('', '4'), ('', '5.9'), ('', '3.5'), ('', '3.5'), ('', '3.5'), ('', '5.5'), ('', '5.5'), ('', '5.5'), ('', '7'), ('', '7'), ('', '5.3'), ('', '3.3'), ('', '8'), ('', '6'), ('', '8.2'), ('', '10.1'), ('', '10.1'), ('', '7.9'), ('', '6.4'), ('', '8.9'), ('', '8.9'), ('', '8.9'), ('', '8.9'), ('', '5.8'), ('', '7.1'), ('', '7.1'), ('', '8.7'), ('', '8.7'), ('', '4.7'), ('', '7.5'), ('', '4'), ('', '9.5'), ('', '9.5'), ('', '5.7'), ('', '5.7'), ('', '5'), ('', '5'), ('', '4.6'), ('', '3.3'), ('', '5.6'), ('', '5.6'), ('', '5.1'), ('', '5.1'), ('', '4.6'), ('', '4.6'), ('', '9.8'), ('', '9.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.085000,
+          40.177778
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L04170425",
+      "full station name": "Eagle Lake Station 6A",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '1'), ('', '4.4'), ('', '3.6'), ('', '3.4'), ('', '3.2'), ('', '3.9'), ('', '3'), ('', '3.5'), ('', '2.9'), ('', '1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.707900,
+          40.695283
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "C3",
+      "full station name": "Sacramento River @ Greenes Landing",
+      "run name": "Monthly Van Run",
+      "run submitted by": "Gehrts, Brenn, DFG",
+      "data": "[('', '96'), ('', '96'), ('', '70'), ('', '84'), ('', '96'), ('', '142'), ('', '118'), ('', '180')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.546056,
+          38.345750
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80681424",
+      "full station name": "FMWT 707",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '92')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.706111,
+          38.113889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5L01431065",
+      "full station name": "LK ALMANOR E ARM CENTER",
+      "run name": "Lake Almanor 2014",
+      "run submitted by": "Perry LeBeouf",
+      "data": "[('', '6.3'), ('', '4.6'), ('', '8.3'), ('', '2.4'), ('', '2.4'), ('', '3.4'), ('', '7.2'), ('', '7.2'), ('', '5.5'), ('', '5.5'), ('', '15'), ('', '6.8'), ('', '6.2'), ('', '6.2'), ('', '7.4'), ('', '7.4'), ('', '9.4'), ('', '9.4'), ('', '9.9'), ('', '7.7'), ('', '11'), ('', '11'), ('', '11'), ('', '11'), ('', '6.5'), ('', '6.5'), ('', '6.7'), ('', '6.7'), ('', '8.1'), ('', '8.1'), ('', '8.6'), ('', '5.1'), ('', '3.2'), ('', '3.2'), ('', '11.7'), ('', '11.7'), ('', '5.7'), ('', '11.3'), ('', '5.9'), ('', '5.9'), ('', '3'), ('', '3.3'), ('', '5.5'), ('', '5.5'), ('', '4.8'), ('', '4.8'), ('', '5.6'), ('', '5.6'), ('', '10'), ('', '10')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.108333,
+          40.238333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA004000",
+      "full station name": "CA004",
+      "run name": "CuSO4(application)",
+      "run submitted by": "Leonard, Michelle",
+      "data": "[('', '3.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.620639,
+          34.538611
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA006900",
+      "full station name": "Castaic Lake station adjacent to Copper Treatment",
+      "run name": "CuSO4 (Post Treatment)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '4.5'), ('', '4.2'), ('', '3.2'), ('', '3.2'), ('', '1'), ('', '1.9'), ('', '3'), ('', '0.7'), ('', '3'), ('', '3.7'), ('', '4.1'), ('', '7.4'), ('', '1.8'), ('', '2.6'), ('', '2.9'), ('', '2.9'), ('', '1.9'), ('', '5.5'), ('', '5.5'), ('', '5.5'), ('', '5.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.511111,
+          34.476389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L03520451",
+      "full station name": "EAGLE LK STA NO 11",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '4'), ('', '3.4'), ('', '3.4'), ('', '5.3'), ('', '5.3'), ('', '5.5'), ('', '5.5'), ('', '2.6'), ('', '4'), ('', '4'), ('', '5.9'), ('', '5.9'), ('', '6.1'), ('', '6.1'), ('', '8.6'), ('', '8.6'), ('', '7'), ('', '7'), ('', '8.2'), ('', '4.1'), ('', '4.1'), ('', '7.3'), ('', '7.3'), ('', '10.6'), ('', '4.6'), ('', '4.6'), ('', '5.2'), ('', '5.2'), ('', '3.9'), ('', '3.9'), ('', '4.5'), ('', '4.5'), ('', '3.2'), ('', '3.2'), ('', '4.5'), ('', '4.5'), ('', '4.9'), ('', '3.1'), ('', '10.7'), ('', '3.6'), ('', '3.6'), ('', '4.8'), ('', '4.8'), ('', '3.6'), ('', '3.6'), ('', '3.2'), ('', '3.7'), ('', '3.7'), ('', '9.5'), ('', '9.5'), ('', '7.6'), ('', '7.6'), ('', '5.5'), ('', '5.5'), ('', '4.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.751389,
+          40.586389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93271191",
+      "full station name": "Upstream 7",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '3'), ('', '3'), ('', '4.8'), ('', '4.8'), ('', '4.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.318679,
+          39.544245
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA005000",
+      "full station name": "CA005",
+      "run name": "CuSO4(application)",
+      "run submitted by": "Leonard, Michelle",
+      "data": "[('', '3.6'), ('', '3.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.589833,
+          34.532806
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81450411",
+      "full station name": "Liberty at Approx Cntr S End",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.8'), ('', '0.8'), ('', '0.8'), ('', '0.96'), ('', '0.96'), ('', '0.96'), ('', '1.21'), ('', '1.21'), ('', '1.21'), ('', '1.18'), ('', '1.18'), ('', '0.45'), ('', '0.45'), ('', '0.45'), ('', '1.1'), ('', '1'), ('', '1.1'), ('', '0.48'), ('', '0.48'), ('', '0.48'), ('', '1.05'), ('', '1.05'), ('', '1.05'), ('', '0.92'), ('', '0.92'), ('', '0.92'), ('', '1.1'), ('', '0.94'), ('', '0.8'), ('', '1.1'), ('', '0.7'), ('', '0.98'), ('', '0.8'), ('', '1.1'), ('', '0.8'), ('', '1.5'), ('', '1.1'), ('', '1.12'), ('', '1.1')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.684900,
+          38.242100
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5372101",
+      "full station name": "FEATHER R NF BL RR A CHESTER",
+      "run name": "Lake Almanor July",
+      "run submitted by": "Minton, Jon",
+      "data": "[('', '16.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.217778,
+          40.306389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D22",
+      "full station name": "Sacramento River @ Emmaton",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '44'), ('', '28'), ('', '52'), ('', '64'), ('', '44'), ('', '44'), ('', '60'), ('', '48'), ('', '50'), ('', '60'), ('', '64'), ('', '84'), ('', '32'), ('', '20'), ('', '40'), ('', '24'), ('', '72'), ('', '40'), ('', '40'), ('', '58'), ('', '72'), ('', '60'), ('', '88'), ('', '60'), ('', '36'), ('', '84'), ('', '40'), ('', '60'), ('', '44'), ('', '44'), ('', '56'), ('', '36'), ('', '84'), ('', '80'), ('', '36'), ('', '80'), ('', '72'), ('', '60'), ('', '34'), ('', '76'), ('', '36'), ('', '36'), ('', '76'), ('', '76'), ('', '72'), ('', '108'), ('', '80'), ('', '40'), ('', '36'), ('', '24'), ('', '58'), ('', '56'), ('', '60'), ('', '60'), ('', '60'), ('', '84'), ('', '36'), ('', '32'), ('', '70'), ('', '52'), ('', '32'), ('', '30'), ('', '44'), ('', '40'), ('', '40'), ('', '72'), ('', '52'), ('', '40'), ('', '36'), ('', '30'), ('', '30'), ('', '32'), ('', '48'), ('', '56'), ('', '32'), ('', '48'), ('', '72'), ('', '52'), ('', '56'), ('', '40'), ('', '40'), ('', '40'), ('', '40'), ('', '60'), ('', '50'), ('', '50'), ('', '44'), ('', '76'), ('', '72'), ('', '136'), ('', '54'), ('', '70'), ('', '52'), ('', '52'), ('', '56'), ('', '96'), ('', '42'), ('', '48'), ('', '48'), ('', '60'), ('', '68'), ('', '52'), ('', '48'), ('', '80'), ('', '44'), ('', '60'), ('', '38'), ('', '48'), ('', '40'), ('', '72'), ('', '56'), ('', '70'), ('', '64'), ('', '50'), ('', '52'), ('', '52'), ('', '64'), ('', '48'), ('', '80'), ('', '22')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.739139,
+          38.084528
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA030341",
+      "full station name": "CALIFORNIA AQUEDUCT AT CHECK 41",
+      "run name": "JAN-West",
+      "run submitted by": "Stephenson, Della",
+      "data": "[('', '1.9'), ('', '0.8'), ('', '1.1'), ('', '0.6'), ('', '0.9'), ('', '14'), ('', '0.9'), ('', '0.7'), ('', '0.9'), ('', '0.9'), ('', '0.4'), ('', '0.8'), ('', '0.8'), ('', '1.9'), ('', '0.9'), ('', '0.5'), ('', '0.4'), ('', '0.5'), ('', '0.2'), ('', '1.2'), ('', '0.8'), ('', '0.8'), ('', '0.7'), ('', '0.8'), ('', '0.4'), ('', '0.9'), ('', '0.6'), ('', '0.4'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '0.8'), ('', '0.9'), ('', '0.2'), ('', '0.9'), ('', '0.9'), ('', '0.4'), ('', '0.5'), ('', '1.4'), ('', '0.5'), ('', '0.5'), ('', '1.2'), ('', '0.5'), ('', '0.8'), ('', '0.8'), ('', '0.8'), ('', '0.7'), ('', '0.7'), ('', '0.9'), ('', '0.4'), ('', '0.4'), ('', '0.4'), ('', '0.6'), ('', '0.7'), ('', '0.7'), ('', '1'), ('', '0.9'), ('', '0.8'), ('', '0.8'), ('', '0.8'), ('', '0.8'), ('', '0.8'), ('', '0.7'), ('', '0.07'), ('', '0.9'), ('', '0.9'), ('', '0.5'), ('', '0.5'), ('', '0.5'), ('', '0.7'), ('', '0.6'), ('', '0.6'), ('', '0.7'), ('', '0.8'), ('', '0.8'), ('', '0.7'), ('', '1'), ('', '0.7'), ('', '0.6'), ('', '0.6'), ('', '0.4'), ('', '0.7'), ('', '0.7'), ('', '0.7'), ('', '0.5'), ('', '0.7'), ('', '0.9'), ('', '0.9'), ('', '0.8'), ('', '0.8'), ('', '0.9'), ('', '0.6'), ('', '0.4'), ('', '0.4'), ('', '0.7'), ('', '0.9'), ('', '0.7'), ('', '0.5'), ('', '0.6'), ('', '1.2'), ('', '0.9'), ('', '0.9'), ('', '0.9'), ('', '0.9'), ('', '0.5'), ('', '0.8'), ('', '0.8'), ('', '0.7'), ('', '0.9'), ('', '1.6'), ('', '0.7'), ('', '0.9'), ('', '0.8'), ('', '0.7'), ('', '1.4'), ('', '0.6'), ('', '0.9'), ('', '0.8'), ('', '0.7'), ('', '0.9'), ('', '0.8'), ('', '0.9'), ('', '0.7'), ('', '0.9'), ('', '0.5'), ('', '2.2'), ('', '2.9'), ('', '0.2'), ('', '0.7'), ('', '0.8'), ('', '0.8'), ('', '0.9'), ('', '1.3'), ('', '1.2'), ('', '1.2'), ('', '1.2'), ('', '1.8'), ('', '0.5'), ('', '1.6'), ('', '0.8'), ('', '0.7'), ('', '0.9'), ('', '1'), ('', '0.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.711939,
+          34.833989
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D26",
+      "full station name": "San Joaquin River @ Potato Point",
+      "run name": "Mid Delta Day 2",
+      "run submitted by": "Manuel Serrato",
+      "data": "[('', '132'), ('', '164'), ('', '148'), ('', '72'), ('', '108'), ('', '112'), ('', '108'), ('', '108'), ('', '100'), ('', '140'), ('', '132'), ('', '96'), ('', '96'), ('', '180'), ('', '112'), ('', '136'), ('', '52'), ('', '32'), ('', '110'), ('', '80'), ('', '144'), ('', '64'), ('', '60'), ('', '116'), ('', '30'), ('', '142'), ('', '142'), ('', '108'), ('', '120'), ('', '30'), ('', '92'), ('', '96'), ('', '134'), ('', '64'), ('', '68'), ('', '92'), ('', '56'), ('', '80'), ('', '92'), ('', '236'), ('', '80'), ('', '52'), ('', '106'), ('', '120'), ('', '76'), ('', '136'), ('', '94'), ('', '140'), ('', '180'), ('', '112'), ('', '76'), ('', '120'), ('', '78'), ('', '100'), ('', '100'), ('', '140'), ('', '52'), ('', '120'), ('', '96'), ('', '96'), ('', '174'), ('', '174'), ('', '92'), ('', '92'), ('', '76'), ('', '44'), ('', '44'), ('', '116'), ('', '116'), ('', '156'), ('', '140'), ('', '84'), ('', '74'), ('', '70'), ('', '70'), ('', '102'), ('', '80'), ('', '68'), ('', '104'), ('', '128'), ('', '140'), ('', '140'), ('', '140'), ('', '120'), ('', '96'), ('', '68'), ('', '120'), ('', '90'), ('', '90'), ('', '90'), ('', '130'), ('', '180'), ('', '124'), ('', '156'), ('', '116'), ('', '192'), ('', '72'), ('', '94'), ('', '132'), ('', '132'), ('', '130'), ('', '164'), ('', '96'), ('', '134'), ('', '164'), ('', '134'), ('', '120'), ('', '184'), ('', '152'), ('', '110'), ('', '128'), ('', '140'), ('', '132'), ('', '180'), ('', '160'), ('', '160'), ('', '120'), ('', '156'), ('', '130'), ('', '124'), ('', '86'), ('', '176'), ('', '140'), ('', '52')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.566889,
+          38.076639
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0000000",
+      "full station name": "Yolo Bypass @ Rotary Screw Trap (Levee Mile 14.5)",
+      "run name": "Yolo Bypass 2013",
+      "run submitted by": "Haley Carlson",
+      "data": "[('', '0.13'), ('', '0.13'), ('', '0.3'), ('', '0.3'), ('', '0.2'), ('', '0.2'), ('', '0.31'), ('', '0.31'), ('', '0.2'), ('', '0.2'), ('', '0.22'), ('', '0.22'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.31'), ('', '0.31'), ('', '0.22'), ('', '0.22'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.1'), ('', '0.25'), ('', '0.21'), ('', '0.21'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.22'), ('', '0.22'), ('', '0.22'), ('', '0.33'), ('', '0.2'), ('', '0.2'), ('', '0.22'), ('', '0.22'), ('', '0.14'), ('', '0.11'), ('', '0.11'), ('', '0.11'), ('', '0.13'), ('', '0.13'), ('', '0.13'), ('', '0.17'), ('', '0.023'), ('', '0.023'), ('', '0.19'), ('', '0.19'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.18'), ('', '0.18'), ('', '0.24'), ('', '0.24'), ('', '0.19'), ('', '0.19'), ('', '0.16'), ('', '0.16'), ('', '0.16'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.14'), ('', '0.14'), ('', '0.14'), ('', '0.21'), ('', '0.31'), ('', '0.28'), ('', '0.32'), ('', '0.28'), ('', '0.25'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.3'), ('', '0.3'), ('', '0.17'), ('', '0.17'), ('', '0.23'), ('', '0.25'), ('', '0.25'), ('', '0.25'), ('', '0.17'), ('', '0.023'), ('', '0.17'), ('', '0.17'), ('', '0.22'), ('', '0.22'), ('', '0.22'), ('', '0.29'), ('', '0.29'), ('', '0.16'), ('', '0.16'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.31'), ('', '0.31'), ('', '0.31'), ('', '0.23'), ('', '0.23'), ('', '0.23'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.27'), ('', '0.27'), ('', '0.27'), ('', '0.2'), ('', '0.19'), ('', '0.19'), ('', '0.19'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.14'), ('', '0.33'), ('', '0.33'), ('', '0.2'), ('', '0.2'), ('', '0.14'), ('', '0.14'), ('', '0.31'), ('', '0.31'), ('', '0.31'), ('', '0.29'), ('', '0.21'), ('', '0.21'), ('', '0.19'), ('', '0.19'), ('', '0.08'), ('', '0.08'), ('', '0.08'), ('', '0.19'), ('', '0.19'), ('', '0.14'), ('', '0.14'), ('', '0.15'), ('', '0.15'), ('', '0.15'), ('', '0.14'), ('', '0.14'), ('', '0.14'), ('', '0.14'), ('', '0.17'), ('', '0.17'), ('', '0.17'), ('', '0.14'), ('', '0.14'), ('', '0.14'), ('', '0.16'), ('', '0.16'), ('', '0.16'), ('', '0.27'), ('', '0.14'), ('', '0.19')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.642083,
+          38.353556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PY001000",
+      "full station name": "PYRAMID LK A ANGELES TU INLET",
+      "run name": "APRIL-West-Pyramid Lake",
+      "run submitted by": "Carlos Soria",
+      "data": "[('', '7.4'), ('', '2.7'), ('', '3.9'), ('', '4.2'), ('', '4.4'), ('', '0.7'), ('', '1.8'), ('', '3.6'), ('', '4'), ('', '3.7'), ('', '4.2'), ('', '4.3'), ('', '3.2'), ('', '2.3'), ('', '4.7'), ('', '4.4'), ('', '1.4'), ('', '1.6'), ('', '3.8'), ('', '5.3'), ('', '5.8'), ('', '1.9'), ('', '1'), ('', '2.4'), ('', '3.9'), ('', '0.8'), ('', '1.9'), ('', '6.9'), ('', '3.9'), ('', '4.8'), ('', '5.6'), ('', '1'), ('', '0.9'), ('', '3.2'), ('', '1.8'), ('', '2.3'), ('', '1.9'), ('', '2.4'), ('', '3.7'), ('', '3.2'), ('', '6.3'), ('', '6.2'), ('', '3.7'), ('', '4.3'), ('', '1.7'), ('', '0.9'), ('', '3'), ('', '5.2'), ('', '2.2'), ('', '3.2'), ('', '5.6'), ('', '5.4'), ('', '4.2'), ('', '3.9'), ('', '3.9'), ('', '5.3'), ('', '3.5'), ('', '2.6'), ('', '2.8'), ('', '2.9'), ('', '5.1'), ('', '2.9'), ('', '4.5'), ('', '5'), ('', '4.3'), ('', '6.6'), ('', '4.9'), ('', '3.1'), ('', '5.1'), ('', '1.4'), ('', '2.5'), ('', '1.8'), ('', '2.4'), ('', '3'), ('', '1'), ('', '3.3'), ('', '2.9'), ('', '3.8'), ('', '2.1'), ('', '4.4'), ('', '3.1'), ('', '4.2'), ('', '1.7'), ('', '1.2'), ('', '3.7'), ('', '2'), ('', '4.4'), ('', '2.1'), ('', '4.3'), ('', '2.8'), ('', '3.6'), ('', '2'), ('', '2'), ('', '3.9'), ('', '2.5'), ('', '3.2'), ('', '4.5'), ('', '5.1'), ('', '2.7'), ('', '6.1'), ('', '3.3'), ('', '3.5'), ('', '2.4'), ('', '2.5'), ('', '4.6'), ('', '3.6'), ('', '2.7'), ('', '3.8'), ('', '5.9'), ('', '5.5'), ('', '5.8'), ('', '3.3'), ('', '3.7'), ('', '5.7'), ('', '4'), ('', '0.8'), ('', '2.3'), ('', '5.3'), ('', '5'), ('', '3.1'), ('', '3.8'), ('', '5.2'), ('', '4.8'), ('', '5.8'), ('', '3.7'), ('', '5.5'), ('', '4.3'), ('', '4.1'), ('', '5.7'), ('', '3.2'), ('', '6'), ('', '3.1'), ('', '4'), ('', '4.3'), ('', '4.6'), ('', '4.3'), ('', '5'), ('', '3'), ('', '3.6'), ('', '5.1'), ('', '4'), ('', '4.5'), ('', '5.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.764231,
+          34.644933
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PY003000",
+      "full station name": "PYRAMID LK A PROJECT INLET",
+      "run name": "WEW (Oil & Grease)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '2.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.783350,
+          34.676794
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA007089",
+      "full station name": "CA Aqueduct, Ck 13, O'Neill Outlet",
+      "run name": "March Monthly Run",
+      "run submitted by": "Philip Huckobey",
+      "data": "[('', '16.1'), ('', '7.6'), ('', '0.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.015142,
+          37.074200
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D84151387",
+      "full station name": "Knagg's Ranch below Knight's Landing Ridge Cut",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.18'), ('', '65.4'), ('', '0.25'), ('', '0.25'), ('', '0.26'), ('', '0.26'), ('', '0.22'), ('', '0.22'), ('', '0.38'), ('', '0.38'), ('', '0.16'), ('', '0.16'), ('', '0.21'), ('', '0.21'), ('', '0.22'), ('', '0.22'), ('', '0.28')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.645803,
+          38.691600
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75961247",
+      "full station name": "FMWT 911 CHANNEL",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '160')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.411389,
+          37.993333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SLSUS12",
+      "full station name": "SLSUS12",
+      "run name": "Zoo Tow",
+      "run submitted by": "Triboli, Kitty",
+      "data": "[('', '40'), ('', '20'), ('', '20'), ('', '20'), ('', '62'), ('', '22'), ('', '20'), ('', '24'), ('', '12'), ('', '12'), ('', '32'), ('', '58'), ('', '36'), ('', '20'), ('', '16'), ('', '24'), ('', '24'), ('', '24'), ('', '16'), ('', '26'), ('', '26'), ('', '20'), ('', '20'), ('', '16'), ('', '26'), ('', '26'), ('', '20'), ('', '20'), ('', '56'), ('', '40'), ('', '40'), ('', '16'), ('', '36'), ('', '34'), ('', '34'), ('', '32'), ('', '32'), ('', '40'), ('', '30'), ('', '30'), ('', '50'), ('', '32'), ('', '36'), ('', '38'), ('', '32'), ('', '56'), ('', '56'), ('', '56'), ('', '28'), ('', '28'), ('', '36'), ('', '36'), ('', '36'), ('', '38')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.047222,
+          38.180556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "OR003000",
+      "full station name": "Lake Oroville at Bidwell Bar Bridge, Sta 3",
+      "run name": "West-Branch Feather River",
+      "run submitted by": "Vandelon, Margaret",
+      "data": "[('', '10.8'), ('', '10.8'), ('', '9.25'), ('', '9.25'), ('', '9.25'), ('', '4.5'), ('', '4.5'), ('', '4.5'), ('', '5.5'), ('', '3.6'), ('', '3.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.428333,
+          39.551667
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE005000",
+      "full station name": "LK PERRIS W OF ALESSANDRO ISLAND",
+      "run name": "Perris Copper Treatment",
+      "run submitted by": "Cindy Brummett",
+      "data": "[('', '1'), ('', '4.4'), ('', '0.9'), ('', '2.2'), ('', '2.3'), ('', '1.2'), ('', '0.3'), ('', '1.3'), ('', '2.8'), ('', '2.2'), ('', '1.4'), ('', '1.3'), ('', '1.3'), ('', '2.1'), ('', '3.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.177500,
+          33.860556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93121292",
+      "full station name": "Thermalito Div Pooll A Hyatt Tailrace",
+      "run name": "Oroville Facilities GHG",
+      "run submitted by": "David Grant",
+      "data": "[('', '2.6'), ('', '5.5'), ('', '5.5'), ('', '5.5'), ('', '5.5'), ('', '6.9'), ('', '5.2'), ('', '4.9'), ('', '6.8'), ('', '0'), ('', '6.8'), ('', '8.7'), ('', '6.7'), ('', '6.7'), ('', '6.1'), ('', '8.9'), ('', '5.9'), ('', '5.2'), ('', '4.5'), ('', '6'), ('', '1.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.487472,
+          39.533250
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KD000184",
+      "full station name": "Calif Aquaduct West Branch @ mile mark 1.84",
+      "run name": "OSO (Oil Spill)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '0.6'), ('', '0.7'), ('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.722500,
+          34.808056
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KD000464",
+      "full station name": "Calif Aquaduct West Branch @ mile mark 4.64",
+      "run name": "OSO (Oil Spill)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '0.9'), ('', '0.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.743333,
+          34.779722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80171454",
+      "full station name": "FMWT 806",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '32')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.756111,
+          38.027778
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93501238",
+      "full station name": "Upstream 5",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '6.3'), ('', '6.3'), ('', '5.7'), ('', '5.7'), ('', '5.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.396794,
+          39.584094
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80571347",
+      "full station name": "FMWT 815",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '120')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.578056,
+          38.094444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93211286",
+      "full station name": "LK O A Hyatt Intake",
+      "run name": "Oroville Facilities GHG",
+      "run submitted by": "David Grant",
+      "data": "[('', '2.6'), ('', '4'), ('', '5.5'), ('', '3.2'), ('', '5.4'), ('', '3.9'), ('', '6'), ('', '5.6'), ('', '4.8'), ('', '5.1'), ('', '4.4'), ('', '5.5'), ('', '3.3'), ('', '4.6'), ('', '3.9'), ('', '4.4'), ('', '6.3'), ('', '7.4'), ('', '5.78'), ('', '4.2'), ('', '5.3'), ('', '4.6'), ('', '4.5'), ('', '3.7'), ('', '3.7'), ('', '4.5'), ('', '4.7'), ('', '4.6'), ('', '4.3'), ('', '5'), ('', '3.2'), ('', '5.3'), ('', '1.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.476139,
+          39.535083
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R95300284",
+      "full station name": "LK DAVIS A E END OF DM",
+      "run name": "Upper Feather R Lakes",
+      "run submitted by": "boles, Jerry",
+      "data": "[('', '4.6'), ('', '4.6'), ('', '2.5'), ('', '2.5'), ('', '2.3'), ('', '2.3'), ('', '3'), ('', '3.2'), ('', '4.1'), ('', '4.1'), ('', '1.5'), ('', '2.9'), ('', '2.9'), ('', '2.6'), ('', '2.6'), ('', '3.3'), ('', '3.3'), ('', '3.1'), ('', '3.1'), ('', '2.8'), ('', '2.8'), ('', '3.4'), ('', '3.4'), ('', '2'), ('', '2'), ('', '2.8'), ('', '2.8'), ('', '3.7'), ('', '3.7'), ('', '2.4'), ('', '2.4'), ('', '3.5'), ('', '3.5'), ('', '3.3'), ('', '3.3'), ('', '2.7'), ('', '2.7'), ('', '2.5'), ('', '2.8'), ('', '3.1'), ('', '3.1'), ('', '3.6'), ('', '3.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.473611,
+          39.883889
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81021379",
+      "full station name": "FMWT 717",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '100')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.631111,
+          38.169444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80511443",
+      "full station name": "SACRAMENTO R A EMMATON",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '56'), ('', '18'), ('', '36'), ('', '40'), ('', '56'), ('', '19'), ('', '26'), ('', '50'), ('', '52'), ('', '46'), ('', '58'), ('', '34'), ('', '72'), ('', '56'), ('', '48'), ('', '42'), ('', '56'), ('', '58'), ('', '42'), ('', '38'), ('', '28'), ('', '32'), ('', '34'), ('', '28'), ('', '28'), ('', '27'), ('', '30'), ('', '32'), ('', '44'), ('', '44'), ('', '50'), ('', '36'), ('', '36'), ('', '36'), ('', '36'), ('', '36'), ('', '50'), ('', '38'), ('', '36'), ('', '32'), ('', '38'), ('', '56'), ('', '36'), ('', '22'), ('', '52'), ('', '20'), ('', '56'), ('', '40'), ('', '40')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.738056,
+          38.084444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80351413",
+      "full station name": "FMWT 809 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.688611,
+          38.057778
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E0B80281550",
+      "full station name": "SACRAMENTO R A CHIPPS ISL",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '50'), ('', '20'), ('', '30'), ('', '32'), ('', '36'), ('', '74'), ('', '56'), ('', '42'), ('', '50'), ('', '20'), ('', '26'), ('', '26'), ('', '36'), ('', '44'), ('', '36'), ('', '52'), ('', '32'), ('', '24'), ('', '24'), ('', '56'), ('', '24'), ('', '54'), ('', '50'), ('', '44'), ('', '32'), ('', '37'), ('', '34'), ('', '32'), ('', '40'), ('', '40'), ('', '54'), ('', '34'), ('', '36'), ('', '86'), ('', '44'), ('', '52'), ('', '36'), ('', '36'), ('', '52'), ('', '52'), ('', '38')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.917222,
+          38.046389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D82851352",
+      "full station name": "Toe Drain Below Lisbon Weir",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.16'), ('', '0.16'), ('', '0.15'), ('', '0.15'), ('', '0.21'), ('', '0.21'), ('', '0.24'), ('', '0.24'), ('', '0.26'), ('', '0.26'), ('', '0.24'), ('', '0.24'), ('', '0.26'), ('', '0.26'), ('', '0.22'), ('', '0.22'), ('', '0.17'), ('', '0.22'), ('', '0.3'), ('', '0.3'), ('', '0.24'), ('', '0.24'), ('', '0.32'), ('', '0.32'), ('', '0.18'), ('', '0.18'), ('', '0.2'), ('', '0.2'), ('', '0.26'), ('', '0.26'), ('', '0.24'), ('', '0.24'), ('', '0.14'), ('', '0.14'), ('', '0.16'), ('', '0.16'), ('', '0.25'), ('', '0.22'), ('', '0.16'), ('', '0.21'), ('', '0.21'), ('', '0.2'), ('', '0.2'), ('', '0.22'), ('', '0.22'), ('', '0.4'), ('', '0.4'), ('', '0.24'), ('', '0.26'), ('', '0.21'), ('', '0.2'), ('', '0.2')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.587000,
+          38.475000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "NZ004",
+      "full station name": "Carquinez Strait near Ozol Pier",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '72'), ('', '76'), ('', '124'), ('', '44'), ('', '78'), ('', '50'), ('', '56'), ('', '64'), ('', '60'), ('', '76'), ('', '48'), ('', '64'), ('', '60'), ('', '70'), ('', '72'), ('', '32'), ('', '44'), ('', '48'), ('', '52'), ('', '60'), ('', '56'), ('', '32'), ('', '56'), ('', '60'), ('', '44'), ('', '28'), ('', '64'), ('', '50'), ('', '48'), ('', '52'), ('', '30'), ('', '60'), ('', '64'), ('', '40'), ('', '28'), ('', '56'), ('', '46'), ('', '34'), ('', '28'), ('', '72'), ('', '70'), ('', '60'), ('', '40'), ('', '80'), ('', '50'), ('', '52'), ('', '64'), ('', '70'), ('', '40'), ('', '56'), ('', '44'), ('', '44'), ('', '82'), ('', '78'), ('', '72'), ('', '72'), ('', '68'), ('', '64'), ('', '56'), ('', '64'), ('', '120'), ('', '64'), ('', '130'), ('', '90'), ('', '64'), ('', '64'), ('', '60'), ('', '96'), ('', '120'), ('', '70'), ('', '64'), ('', '72'), ('', '60'), ('', '74'), ('', '92'), ('', '52'), ('', '80'), ('', '76'), ('', '82'), ('', '72')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.161639,
+          38.035750
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L03340484",
+      "full station name": "EAGLE LK STA NO 1A",
+      "run name": "Eagle Lake Apr/Jun",
+      "run submitted by": "Hess, Lesly",
+      "data": "[('', '2.6'), ('', '6.3'), ('', '5.2'), ('', '2.4'), ('', '4.6'), ('', '6.5'), ('', '7.4'), ('', '8.9'), ('', '7'), ('', '8.4'), ('', '4.1'), ('', '4.1'), ('', '6.7'), ('', '6.7'), ('', '9'), ('', '4.1'), ('', '4.1'), ('', '4.2'), ('', '4.2'), ('', '3.8'), ('', '3.8'), ('', '4.5'), ('', '4.5'), ('', '2.75'), ('', '2.75'), ('', '3.6'), ('', '8.3'), ('', '3.1'), ('', '3.1'), ('', '3.7'), ('', '3.4'), ('', '3.4'), ('', '3.5'), ('', '3.4'), ('', '3.7'), ('', '3.7'), ('', '7.1'), ('', '9.1'), ('', '5.3'), ('', '5.3'), ('', '3.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.806111,
+          40.556389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93401294",
+      "full station name": "Upstream 10",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '1.8'), ('', '1.8'), ('', '4.2'), ('', '4.2'), ('', '4.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.489803,
+          39.566702
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D41A",
+      "full station name": "San Pablo Bay near Mouth of Petaluma River",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '56'), ('', '72'), ('', '72'), ('', '52'), ('', '28'), ('', '40'), ('', '36'), ('', '32'), ('', '25'), ('', '56'), ('', '60'), ('', '52'), ('', '54'), ('', '60'), ('', '56'), ('', '56'), ('', '60'), ('', '80'), ('', '96'), ('', '96'), ('', '36'), ('', '28'), ('', '60'), ('', '60'), ('', '102'), ('', '78'), ('', '60'), ('', '52'), ('', '50'), ('', '24'), ('', '60'), ('', '60'), ('', '22'), ('', '36'), ('', '60'), ('', '80'), ('', '48'), ('', '40'), ('', '36'), ('', '62'), ('', '50'), ('', '20'), ('', '48'), ('', '76'), ('', '80'), ('', '80'), ('', '36'), ('', '40'), ('', '28'), ('', '36'), ('', '48'), ('', '30'), ('', '40'), ('', '64'), ('', '64'), ('', '56'), ('', '56'), ('', '48'), ('', '20'), ('', '40'), ('', '20'), ('', '52'), ('', '52'), ('', '20'), ('', '28'), ('', '36'), ('', '92'), ('', '56'), ('', '16'), ('', '16'), ('', '36'), ('', '40'), ('', '34'), ('', '80'), ('', '50'), ('', '20'), ('', '22'), ('', '32'), ('', '32'), ('', '20'), ('', '28'), ('', '76'), ('', '32'), ('', '76'), ('', '50'), ('', '56'), ('', '20'), ('', '80'), ('', '40'), ('', '44'), ('', '146'), ('', '102'), ('', '20'), ('', '78'), ('', '100'), ('', '40'), ('', '40'), ('', '40'), ('', '60'), ('', '112'), ('', '65'), ('', '54'), ('', '52'), ('', '52'), ('', '76'), ('', '52'), ('', '96'), ('', '76'), ('', '72'), ('', '44'), ('', '40'), ('', '54'), ('', '72'), ('', '72'), ('', '68'), ('', '56'), ('', '80'), ('', '52'), ('', '60'), ('', '72'), ('', '88'), ('', '64'), ('', '50'), ('', '52'), ('', '52')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390667,
+          38.084722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Venice Cut @ MT",
+      "full station name": "Venice Cut at Mandeville Tip",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '112'), ('', '112'), ('', '114'), ('', '104'), ('', '120')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA033095",
+      "full station name": "Down stream from Johnson Siphon",
+      "run name": "CuSO4 (Pre)",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '0.6')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.330800,
+          34.663817
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E0B80182223",
+      "full station name": "SAN PABLO BAY NR PINOLE PT",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Melanie LeGro",
+      "data": "[('', '84'), ('', '64'), ('', '78'), ('', '68'), ('', '96'), ('', '76'), ('', '136'), ('', '44'), ('', '44'), ('', '56'), ('', '90'), ('', '90'), ('', '136'), ('', '72'), ('', '56'), ('', '114'), ('', '54'), ('', '90'), ('', '72'), ('', '54'), ('', '94'), ('', '76'), ('', '90'), ('', '90'), ('', '138'), ('', '56'), ('', '112'), ('', '112'), ('', '116'), ('', '100'), ('', '94'), ('', '90'), ('', '80'), ('', '118'), ('', '140'), ('', '80'), ('', '114'), ('', '130'), ('', '130'), ('', '120'), ('', '112'), ('', '136'), ('', '96'), ('', '118'), ('', '130'), ('', '128'), ('', '124'), ('', '92'), ('', '38'), ('', '116'), ('', '116'), ('', '110'), ('', '110'), ('', '76'), ('', '130'), ('', '88')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.370833,
+          38.030556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L03860452",
+      "full station name": "Eagle Lake 9B",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '2.7'), ('', '4.3'), ('', '4.1'), ('', '3.4'), ('', '3.3'), ('', '4'), ('', '4.7'), ('', '4.4'), ('', '3.4'), ('', '4.5'), ('', '4.2'), ('', '3.5'), ('', '4'), ('', '4.9'), ('', '2.9'), ('', '2.9'), ('', '2.8'), ('', '2'), ('', '3.4'), ('', '3'), ('', '4.6'), ('', '2.9'), ('', '3'), ('', '2.5'), ('', '2.6'), ('', '3'), ('', '2.5'), ('', '3.9'), ('', '4.3'), ('', '3.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.736117,
+          40.634700
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "RSAC047",
+      "full station name": "RSAC047",
+      "run name": "Suisun Bay 2*",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '23'), ('', '24'), ('', '66'), ('', '52'), ('', '36'), ('', '40'), ('', '32'), ('', '44'), ('', '39'), ('', '38'), ('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.158333,
+          38.029167
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "E0B80361593",
+      "full station name": "SUISUN BAY OFF MIDDLE PT",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '32'), ('', '32'), ('', '36'), ('', '16'), ('', '24'), ('', '52'), ('', '60'), ('', '32'), ('', '40'), ('', '38'), ('', '38'), ('', '36'), ('', '44'), ('', '18'), ('', '36'), ('', '56'), ('', '40'), ('', '26'), ('', '48'), ('', '32'), ('', '42'), ('', '22'), ('', '30'), ('', '28'), ('', '32'), ('', '16'), ('', '32'), ('', '42'), ('', '34'), ('', '54'), ('', '34'), ('', '42'), ('', '20'), ('', '46'), ('', '24'), ('', '48'), ('', '53'), ('', '39'), ('', '50'), ('', '36'), ('', '36'), ('', '40'), ('', '92'), ('', '36'), ('', '36'), ('', '32'), ('', '38'), ('', '16'), ('', '44'), ('', '40')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988889,
+          38.060000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "NZ325",
+      "full station name": "San Pablo Bay near Rock Wall and Light 15",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '92'), ('', '44'), ('', '56'), ('', '38'), ('', '42'), ('', '44'), ('', '60'), ('', '92'), ('', '60'), ('', '48'), ('', '70'), ('', '68'), ('', '62'), ('', '24'), ('', '44'), ('', '74'), ('', '8'), ('', '30'), ('', '34'), ('', '36'), ('', '64'), ('', '20'), ('', '40'), ('', '38'), ('', '120'), ('', '72'), ('', '28'), ('', '10'), ('', '64'), ('', '60'), ('', '26'), ('', '24'), ('', '32'), ('', '52'), ('', '22'), ('', '22'), ('', '52'), ('', '52'), ('', '52'), ('', '36'), ('', '46'), ('', '32'), ('', '28'), ('', '30'), ('', '40'), ('', '52'), ('', '70'), ('', '56'), ('', '64'), ('', '36'), ('', '60'), ('', '60'), ('', '96'), ('', '44'), ('', '52'), ('', '72'), ('', '78'), ('', '38'), ('', '108'), ('', '28'), ('', '58'), ('', '54'), ('', '40'), ('', '52'), ('', '64'), ('', '40'), ('', '64'), ('', '52'), ('', '92'), ('', '52'), ('', '52'), ('', '80'), ('', '90'), ('', '64'), ('', '68'), ('', '44'), ('', '80'), ('', '64'), ('', '76'), ('', '72')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.291917,
+          38.057972
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "PE000000",
+      "full station name": "Perris Lake East Shoreline",
+      "run name": "Reservoir Copper Treatment",
+      "run submitted by": "Bill Jordan",
+      "data": "[('', '1.7'), ('', '1.3'), ('', '1.6'), ('', '1.3'), ('', '1.2'), ('', '1.1'), ('', '1.3'), ('', '1.2'), ('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.158333,
+          33.865000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A3R92162305",
+      "full station name": "EAST PARK RES NR MAIN DAM",
+      "run name": "OSI Source Points",
+      "run submitted by": "Hess, Lesly",
+      "data": "[('', '1.2'), ('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508333,
+          39.360833
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93391274",
+      "full station name": "Oro-5",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '5.5'), ('', '5.5'), ('', '3.8'), ('', '3.8'), ('', '3.8')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.456485,
+          39.564470
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80301562",
+      "full station name": "FMWT 507",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '60')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.936111,
+          38.050000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA000000",
+      "full station name": "Clifton Court Intake",
+      "run name": "Barker Slough Weekly",
+      "run submitted by": "Ceniseroz, Steve",
+      "data": "[('', '0.55'), ('', '0.3'), ('', '0.3'), ('', '0.3'), ('', '0.6'), ('', '0.5'), ('', '0.6'), ('', '0.9'), ('', '0.6'), ('', '0.8'), ('', '0.6'), ('', '0.9'), ('', '0.7'), ('', '0.6'), ('', '0.7'), ('', '0.7'), ('', '0.6'), ('', '0.5'), ('', '1.1'), ('', '0.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.557353,
+          37.829781
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "G3L04260429",
+      "full station name": "EAGLE LK STA NO 6B",
+      "run name": "Eagle Lake",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '0.5'), ('', '4.2'), ('', '3.4'), ('', '3.4'), ('', '2.3'), ('', '2.7'), ('', '3'), ('', '3.2'), ('', '2.3'), ('', '0.7')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.715833,
+          40.710556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA002000",
+      "full station name": "Castaic Lake Outlet Tower",
+      "run name": "FEB-West-Castaic, CAMWD",
+      "run submitted by": "Carlos Soria",
+      "data": "[('', '4'), ('', '6.4'), ('', '5.2'), ('', '5.3'), ('', '5'), ('', '6.2'), ('', '0.5'), ('', '2.2'), ('', '1.4'), ('', '3.4'), ('', '4.5'), ('', '3.6'), ('', '5.3'), ('', '5.1'), ('', '6.5'), ('', '5.2'), ('', '5.1'), ('', '5.9'), ('', '5.4'), ('', '0.5'), ('', '3.1'), ('', '2.2'), ('', '3.2'), ('', '3.8'), ('', '4.3'), ('', '3.6'), ('', '4.7'), ('', '2.1'), ('', '5.4'), ('', '4.5'), ('', '5.1'), ('', '1'), ('', '3.7'), ('', '4.9'), ('', '7.7'), ('', '6.4'), ('', '5.9'), ('', '5.6'), ('', '2.4'), ('', '3.3'), ('', '2.1'), ('', '4.8'), ('', '4.4'), ('', '2.8'), ('', '1.8'), ('', '3.7'), ('', '4.9'), ('', '10.4'), ('', '8.6'), ('', '6.2'), ('', '5.7'), ('', '7.6'), ('', '2.2'), ('', '3.9'), ('', '5.4'), ('', '5.2'), ('', '3.3'), ('', '2.4'), ('', '6.6'), ('', '5.9'), ('', '5.9'), ('', '2.7'), ('', '3.9'), ('', '4.5'), ('', '4.6'), ('', '2.2'), ('', '1.2'), ('', '1.1'), ('', '2.6'), ('', '1.5'), ('', '4.3'), ('', '4.2'), ('', '4.3'), ('', '2.7'), ('', '1.9'), ('', '4.5'), ('', '4.9'), ('', '2.6'), ('', '3.7'), ('', '3.3'), ('', '4.7'), ('', '3.4'), ('', '2.4'), ('', '3.1'), ('', '2.8'), ('', '2.3'), ('', '2.4'), ('', '2.4'), ('', '2.8'), ('', '3.6'), ('', '3.6'), ('', '5.1'), ('', '2'), ('', '2.6'), ('', '2.6'), ('', '3.6'), ('', '1.7'), ('', '2.2'), ('', '2.7'), ('', '4.2'), ('', '6.6'), ('', '3.7'), ('', '1.2'), ('', '1.2'), ('', '1.2'), ('', '1.6'), ('', '1.6'), ('', '2.1'), ('', '1.1'), ('', '4.6'), ('', '4.6'), ('', '8.1'), ('', '4.5'), ('', '2'), ('', '3.9'), ('', '2.2'), ('', '1.6'), ('', '1.6'), ('', '1.8'), ('', '1.5'), ('', '2.3'), ('', '1.7'), ('', '8'), ('', '2'), ('', '1.7'), ('', '1.3'), ('', '1.3'), ('', '2.5'), ('', '2.1'), ('', '3.1'), ('', '2.8'), ('', '4.6'), ('', '2.1'), ('', '4.5'), ('', '5.7'), ('', '1.4'), ('', '1.3'), ('', '3.1'), ('', '1.9'), ('', '1.7'), ('', '7.7'), ('', '4.3'), ('', '4.3'), ('', '4.1'), ('', '5.7'), ('', '4.4'), ('', '3.4'), ('', '5'), ('', '5'), ('', '3.9'), ('', '3'), ('', '0.9'), ('', '3'), ('', '2.9'), ('', '6'), ('', '3.6'), ('', '6'), ('', '5.3'), ('', '6'), ('', '4.7'), ('', '3.7'), ('', '3.9'), ('', '4.9'), ('', '3.6'), ('', '3'), ('', '4.3'), ('', '2.8'), ('', '3.4'), ('', '6'), ('', '3.5'), ('', '6.1'), ('', '5.2'), ('', '4.5'), ('', '4.7'), ('', '2.8'), ('', '4.7'), ('', '3.6'), ('', '4.5'), ('', '4.9'), ('', '3.8'), ('', '4.1')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.610108,
+          34.515153
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75821343",
+      "full station name": "OLD R OPPOSITE RANCHO DEL RIO",
+      "run name": "Mid Delta Boat",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '206'), ('', '42'), ('', '50'), ('', '40'), ('', '78'), ('', '74'), ('', '76'), ('', '46'), ('', '194'), ('', '90'), ('', '80'), ('', '19.4'), ('', '76'), ('', '120'), ('', '60'), ('', '92'), ('', '42'), ('', '42'), ('', '80'), ('', '110'), ('', '76'), ('', '94'), ('', '72'), ('', '47'), ('', '91'), ('', '96'), ('', '100'), ('', '100'), ('', '102'), ('', '76'), ('', '100'), ('', '132'), ('', '72'), ('', '72'), ('', '84'), ('', '134'), ('', '94'), ('', '84'), ('', '190'), ('', '136'), ('', '140'), ('', '72'), ('', '124'), ('', '212'), ('', '108')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.571944,
+          37.970556
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SL001000",
+      "full station name": "SAN LUIS RES A TRASHRACKS",
+      "run name": "Jan Monthly Run 2001",
+      "run submitted by": "Anaya, Pam",
+      "data": "[('', '4'), ('', '3'), ('', '3'), ('', '0'), ('', '3'), ('', '3.8'), ('', '3.9'), ('', '4'), ('', '3'), ('', '19.3'), ('', '18.5'), ('', '20.4'), ('', '3'), ('', '3'), ('', '3'), ('', '3'), ('', '3'), ('', '3.4'), ('', '0'), ('', '3'), ('', '3'), ('', '3'), ('', '0'), ('', '3'), ('', '3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.085433,
+          37.068058
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Light 28",
+      "full station name": "Light 28",
+      "run name": "Dissolved Oxygen Run Modified",
+      "run submitted by": "Melanie LeGro",
+      "data": "[('', '148'), ('', '200'), ('', '120'), ('', '156'), ('', '216'), ('', '160'), ('', '154'), ('', '108'), ('', '160'), ('', '190'), ('', '164'), ('', '180'), ('', '116'), ('', '122'), ('', '124'), ('', '60'), ('', '120'), ('', '84'), ('', '156'), ('', '64'), ('', '50'), ('', '79'), ('', '78'), ('', '64'), ('', '88'), ('', '76'), ('', '64'), ('', '88'), ('', '34'), ('', '64'), ('', '46'), ('', '68'), ('', '111'), ('', '99'), ('', '96'), ('', '112'), ('', '54'), ('', '148'), ('', '136'), ('', '60'), ('', '72'), ('', '62'), ('', '80'), ('', '88'), ('', '108'), ('', '116'), ('', '116'), ('', '40'), ('', '140'), ('', '160'), ('', '144'), ('', '170'), ('', '102'), ('', '181'), ('', '184'), ('', '48'), ('', '68'), ('', '85'), ('', '108'), ('', '148'), ('', '160'), ('', '88'), ('', '112'), ('', '164'), ('', '172'), ('', '96'), ('', '74'), ('', '84'), ('', '109'), ('', '142'), ('', '164'), ('', '124'), ('', '128'), ('', '140'), ('', '128'), ('', '104'), ('', '290'), ('', '156'), ('', '202'), ('', '138'), ('', '164'), ('', '272'), ('', '148'), ('', '164'), ('', '228'), ('', '166'), ('', '108')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "NZS42",
+      "full station name": "Suisun Slough @ Volanti Slough",
+      "run name": "Zoo Tow",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '16'), ('', '24'), ('', '52'), ('', '36'), ('', '14'), ('', '24'), ('', '24'), ('', '44'), ('', '42'), ('', '40'), ('', '44'), ('', '28'), ('', '40'), ('', '30'), ('', '20'), ('', '40'), ('', '40'), ('', '40'), ('', '24'), ('', '54'), ('', '56'), ('', '24'), ('', '52'), ('', '28'), ('', '20'), ('', '32'), ('', '16'), ('', '16'), ('', '18'), ('', '16'), ('', '38'), ('', '36'), ('', '24'), ('', '18'), ('', '20'), ('', '16'), ('', '16'), ('', '24'), ('', '28'), ('', '12'), ('', '12'), ('', '20'), ('', '20'), ('', '26'), ('', '24'), ('', '24'), ('', '26'), ('', '26'), ('', '24'), ('', '20'), ('', '28'), ('', '20'), ('', '20'), ('', '24'), ('', '32'), ('', '22'), ('', '18'), ('', '30'), ('', '18'), ('', '18'), ('', '24'), ('', '36'), ('', '20'), ('', '16'), ('', '24'), ('', '48'), ('', '44'), ('', '44'), ('', '20'), ('', '16'), ('', '24'), ('', '32'), ('', '24'), ('', '24'), ('', '32'), ('', '20'), ('', '16'), ('', '72'), ('', '70'), ('', '12'), ('', '40'), ('', '36'), ('', '44'), ('', '16'), ('', '52'), ('', '54'), ('', '60'), ('', '44'), ('', '12.1'), ('', '48'), ('', '44'), ('', '58'), ('', '36'), ('', '22'), ('', '44'), ('', '60'), ('', '56'), ('', '48'), ('', '80'), ('', '52'), ('', '40'), ('', '28'), ('', '64'), ('', '82'), ('', '50'), ('', '50'), ('', '60'), ('', '44'), ('', '72'), ('', '36'), ('', '40'), ('', '50'), ('', '40'), ('', '64'), ('', '36'), ('', '44'), ('', '24'), ('', '40'), ('', '30'), ('', '50'), ('', '40'), ('', '52'), ('', '40'), ('', '24')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.047611,
+          38.180444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5L01901122",
+      "full station name": "Lake Almanor at Causeway",
+      "run name": "LK Almanor June",
+      "run submitted by": "Kraemer, Tom",
+      "data": "[('', '17.9'), ('', '1410')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.197200,
+          40.308300
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D81450412",
+      "full station name": "FMWT 716",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '32')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.685833,
+          38.241389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5L01651108",
+      "full station name": "LK ALMANOR W ARM CENTER",
+      "run name": "Lake Almanor 2014",
+      "run submitted by": "Perry LeBeouf",
+      "data": "[('', '4.9'), ('', '3.7'), ('', '4.2'), ('', '3'), ('', '3'), ('', '6.8'), ('', '6.8'), ('', '5.9'), ('', '5.9'), ('', '4.5'), ('', '5'), ('', '5'), ('', '5'), ('', '5'), ('', '8'), ('', '8'), ('', '7.6'), ('', '5.6'), ('', '6.6'), ('', '6.6'), ('', '6.6'), ('', '6.6'), ('', '4.1'), ('', '4.1'), ('', '5.2'), ('', '5.2'), ('', '5.7'), ('', '5.7'), ('', '3.8'), ('', '3.4'), ('', '2.6'), ('', '2.6'), ('', '5.7'), ('', '5.7'), ('', '5.6'), ('', '5.6'), ('', '5'), ('', '5'), ('', '3.2'), ('', '3.5'), ('', '5.2'), ('', '5.2'), ('', '4'), ('', '4'), ('', '3.9'), ('', '3.9'), ('', '7.5'), ('', '7.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.179200,
+          40.275000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B8000000",
+      "full station name": "Rio Vista at DES Station",
+      "run name": "Yolo Bypass - Fall Study",
+      "run submitted by": "Frantzich, Jared",
+      "data": "[('', '1.35'), ('', '1.58'), ('', '1.19'), ('', '1.19'), ('', '1.23'), ('', '0.8'), ('', '1.08')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.686308,
+          38.159722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R95371122",
+      "full station name": "BUCKS L A DM GAGE",
+      "run name": "UFR Lakes (Antelope/Bucks)",
+      "run submitted by": "Peter Coombe",
+      "data": "[('', '3.2'), ('', '3.2'), ('', '4.2'), ('', '4.5'), ('', '4.5'), ('', '5'), ('', '5.7'), ('', '4'), ('', '4'), ('', '7'), ('', '7'), ('', '6.5'), ('', '6.5'), ('', '6.7'), ('', '6.7'), ('', '4.2'), ('', '4.2'), ('', '5.3'), ('', '3.5'), ('', '3.5'), ('', '5.3')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.202778,
+          39.895000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "Franks Tract",
+      "full station name": "Franks Tract",
+      "run name": "Microcystis Special Study",
+      "run submitted by": "Philippart, Gehrts",
+      "data": "[('', '116'), ('', '120'), ('', '120'), ('', '114')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000000,
+          0.000000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0033300",
+      "full station name": "Davis Wastewater Discharge at Toe Drain",
+      "run name": "YB - Fall Study from 0310 -KP",
+      "run submitted by": "Mollie Ogaz",
+      "data": "[('', '0.1'), ('', '0.09'), ('', '0.12'), ('', '0.11'), ('', '0.16'), ('', '0.12'), ('', '0.1'), ('', '0.18')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.638239,
+          38.567057
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A8L90072417",
+      "full station name": "CLEAR LK 23 OAKS ARM CL4",
+      "run name": "Clear Lake without Cache C (No Metals)",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '2'), ('', '2'), ('', '2.4'), ('', '1.8'), ('', '1.05'), ('', '2'), ('', '1.2'), ('', '3'), ('', '7.7'), ('', '7.7'), ('', '3'), ('', '1.4'), ('', '1.3'), ('', '4.4'), ('', '5'), ('', '3.9'), ('', '1.9'), ('', '1.8'), ('', '1.3'), ('', '3.1'), ('', '2.3'), ('', '2.5'), ('', '4'), ('', '2.6'), ('', '1.8'), ('', '2.3'), ('', '2.7'), ('', '2.9'), ('', '2.7'), ('', '1.8'), ('', '1.8'), ('', '3.9'), ('', '2.6'), ('', '4'), ('', '3.9'), ('', '3'), ('', '2.5'), ('', '1.6'), ('', '0.6'), ('', '2.8'), ('', '3'), ('', '1.2'), ('', '1.1'), ('', '2.6'), ('', '2.3'), ('', '1'), ('', '0.8'), ('', '1.1'), ('', '2'), ('', '1.6'), ('', '0.7'), ('', '0.7'), ('', '1.1'), ('', '1.4'), ('', '1.4'), ('', '1.8'), ('', '1.3'), ('', '2'), ('', '1.9'), ('', '1.3'), ('', '1.3'), ('', '1.3'), ('', '1.2'), ('', '2.1'), ('', '2.3'), ('', '1.6'), ('', '1'), ('', '1.5'), ('', '1.3'), ('', '2.7'), ('', '2.5'), ('', '1.8'), ('', '3.5'), ('', '2.5'), ('', '1.8'), ('', '2.6'), ('', '2.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.695000,
+          39.011667
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D82120386",
+      "full station name": "Toe Drain at Rotary Screw Trap",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.19'), ('', '0.19'), ('', '0.2'), ('', '0.2'), ('', '0.15'), ('', '0.15'), ('', '0.18'), ('', '0.18'), ('', '0.22'), ('', '0.22'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.21'), ('', '0.21'), ('', '0.14'), ('', '0.32'), ('', '0.32'), ('', '0.19'), ('', '0.17'), ('', '0.13'), ('', '0.12'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.24'), ('', '0.24'), ('', '0.17'), ('', '0.2'), ('', '0.2'), ('', '0.22')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.642975,
+          38.353461
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KD000149",
+      "full station name": "Cal Aqu West Branch at mi 1.49, Oso Pumping Plant",
+      "run name": "OSO Fish Incident",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.616667,
+          34.750000
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R94021259",
+      "full station name": "Upstream 4",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '4.9'), ('', '4.9'), ('', '1.4'), ('', '1.4'), ('', '1.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.431621,
+          39.670351
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "CA000000",
+      "full station name": "Castaic Lake Station 3",
+      "run name": "Reservoir Copper Treatment",
+      "run submitted by": "Della Stephenson",
+      "data": "[('', '2.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.583056,
+          34.559444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SLMZU07",
+      "full station name": "SLMZU07",
+      "run name": "Zoo Tow",
+      "run submitted by": "Triboli, Kitty",
+      "data": "[('', '36'), ('', '18'), ('', '59'), ('', '24'), ('', '20'), ('', '18'), ('', '16'), ('', '32'), ('', '60'), ('', '16'), ('', '20'), ('', '20'), ('', '32'), ('', '32'), ('', '24'), ('', '24'), ('', '20'), ('', '16'), ('', '24'), ('', '30'), ('', '18'), ('', '20'), ('', '34'), ('', '36'), ('', '18'), ('', '22'), ('', '56'), ('', '36'), ('', '16'), ('', '38'), ('', '38'), ('', '32'), ('', '52'), ('', '34'), ('', '40'), ('', '46'), ('', '40'), ('', '40'), ('', '44'), ('', '36'), ('', '42'), ('', '52'), ('', '36'), ('', '38'), ('', '40'), ('', '42')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.020833,
+          38.170278
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D41",
+      "full station name": "San Pablo Bay near Pinole Point",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '120'), ('', '136'), ('', '132'), ('', '92'), ('', '96'), ('', '116'), ('', '88'), ('', '48'), ('', '84'), ('', '124'), ('', '96'), ('', '84'), ('', '100'), ('', '85'), ('', '80'), ('', '80'), ('', '70'), ('', '70'), ('', '70'), ('', '110'), ('', '90'), ('', '74'), ('', '84'), ('', '92'), ('', '104'), ('', '100'), ('', '80'), ('', '80'), ('', '112'), ('', '100'), ('', '70'), ('', '100'), ('', '98'), ('', '76'), ('', '60'), ('', '112'), ('', '96'), ('', '30'), ('', '92'), ('', '90'), ('', '40'), ('', '105'), ('', '90'), ('', '90'), ('', '50'), ('', '56'), ('', '96'), ('', '96'), ('', '130'), ('', '64'), ('', '68'), ('', '72'), ('', '94'), ('', '80'), ('', '58'), ('', '116'), ('', '116'), ('', '96'), ('', '96'), ('', '80'), ('', '52'), ('', '40'), ('', '76'), ('', '88'), ('', '82'), ('', '60'), ('', '68'), ('', '76'), ('', '108'), ('', '96'), ('', '64'), ('', '92'), ('', '72'), ('', '64'), ('', '102'), ('', '72'), ('', '92'), ('', '136'), ('', '92'), ('', '92'), ('', '76'), ('', '120'), ('', '120'), ('', '120'), ('', '80'), ('', '112'), ('', '104'), ('', '60'), ('', '92'), ('', '104'), ('', '104'), ('', '104'), ('', '104'), ('', '134'), ('', '134'), ('', '122'), ('', '52'), ('', '100'), ('', '136'), ('', '108'), ('', '90'), ('', '100'), ('', '120'), ('', '112'), ('', '120'), ('', '116'), ('', '114'), ('', '116'), ('', '130'), ('', '76'), ('', '176'), ('', '116'), ('', '102'), ('', '130'), ('', '76'), ('', '90'), ('', '140'), ('', '100'), ('', '140'), ('', '80'), ('', '86'), ('', '120'), ('', '114'), ('', '72'), ('', '96'), ('', '112'), ('', '92')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372889,
+          38.030222
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D4",
+      "full station name": "Sacramento River above Point Sacramento",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '24'), ('', '56'), ('', '88'), ('', '44'), ('', '36'), ('', '48'), ('', '48'), ('', '68'), ('', '40'), ('', '70'), ('', '60'), ('', '104'), ('', '76'), ('', '30'), ('', '30'), ('', '56'), ('', '24'), ('', '72'), ('', '50'), ('', '60'), ('', '52'), ('', '60'), ('', '64'), ('', '52'), ('', '56'), ('', '56'), ('', '66'), ('', '46'), ('', '28'), ('', '64'), ('', '32'), ('', '48'), ('', '64'), ('', '36'), ('', '24'), ('', '44'), ('', '32'), ('', '76'), ('', '60'), ('', '48'), ('', '48'), ('', '30'), ('', '40'), ('', '88'), ('', '64'), ('', '44'), ('', '24'), ('', '30'), ('', '22'), ('', '50'), ('', '54'), ('', '40'), ('', '40'), ('', '58'), ('', '52'), ('', '24'), ('', '40'), ('', '70'), ('', '40'), ('', '32'), ('', '60'), ('', '40'), ('', '58'), ('', '58'), ('', '92'), ('', '48'), ('', '24'), ('', '32'), ('', '40'), ('', '40'), ('', '40'), ('', '48'), ('', '42'), ('', '42'), ('', '50'), ('', '50'), ('', '44'), ('', '72'), ('', '40'), ('', '60'), ('', '48'), ('', '60'), ('', '40'), ('', '50'), ('', '30'), ('', '65'), ('', '84'), ('', '84'), ('', '60'), ('', '48'), ('', '68'), ('', '36'), ('', '44'), ('', '56'), ('', '72'), ('', '76'), ('', '70'), ('', '56'), ('', '68'), ('', '64'), ('', '90'), ('', '90'), ('', '56'), ('', '40'), ('', '56'), ('', '46'), ('', '92'), ('', '70'), ('', '64'), ('', '52'), ('', '50'), ('', '76'), ('', '56'), ('', '72'), ('', '84'), ('', '88'), ('', '64'), ('', '64'), ('', '64'), ('', '54'), ('', '60'), ('', '68'), ('', '44'), ('', '60'), ('', '22')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.820528,
+          38.062472
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "KA041134",
+      "full station name": "Cal Aqu at mi 411.34 Devil Canyon Headworks",
+      "run name": "OCT-East",
+      "run submitted by": "Bill Jordan",
+      "data": "[('', '0'), ('', '3.9')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.330661,
+          34.223522
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "SI008000",
+      "full station name": "Silverwood Lake at Inlet",
+      "run name": "Oil Spill",
+      "run submitted by": "jordan, William",
+      "data": "[('', '2.5')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.324722,
+          34.303333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D75871229",
+      "full station name": "SAN JOAQUIN R A BUCKLEY COVE",
+      "run name": "Mid Delta Boat",
+      "run submitted by": "Philippart, Shaun",
+      "data": "[('', '95'), ('', '32'), ('', '52'), ('', '82'), ('', '70'), ('', '72'), ('', '70'), ('', '58'), ('', '74'), ('', '82'), ('', '80'), ('', '62'), ('', '48'), ('', '48'), ('', '72'), ('', '37'), ('', '78'), ('', '60'), ('', '50'), ('', '76'), ('', '68'), ('', '76'), ('', '48'), ('', '56'), ('', '52'), ('', '43'), ('', '22'), ('', '60'), ('', '60'), ('', '58'), ('', '66'), ('', '94'), ('', '52'), ('', '58'), ('', '72'), ('', '46'), ('', '60'), ('', '76'), ('', '104'), ('', '80'), ('', '100'), ('', '106'), ('', '96'), ('', '56')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.381944,
+          37.978333
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "OR001000",
+      "full station name": "LK OROVILLE NR DM STA 1",
+      "run name": "Lake Oroville Monthly",
+      "run submitted by": "Lopez, Kathy",
+      "data": "[('', '18.4'), ('', '11'), ('', '23.4'), ('', '23.4'), ('', '20'), ('', '20'), ('', '11.7'), ('', '27'), ('', '20.4'), ('', '13'), ('', '11'), ('', '16'), ('', '15'), ('', '15.1'), ('', '13'), ('', '11.4'), ('', '12'), ('', '10'), ('', '10.9'), ('', '12'), ('', '9'), ('', '4.7'), ('', '4.7'), ('', '5.4'), ('', '12.5'), ('', '19'), ('', '24'), ('', '21'), ('', '22.3'), ('', '11'), ('', '14.2'), ('', '10.8'), ('', '25'), ('', '23'), ('', '15.2'), ('', '7.5'), ('', '9.4'), ('', '21.1'), ('', '24.8'), ('', '9'), ('', '16'), ('', '11.9'), ('', '12.8'), ('', '15.7'), ('', '21.4'), ('', '10.5'), ('', '13.2'), ('', '9.4'), ('', '12.2'), ('', '7.3'), ('', '9.7'), ('', '15.1'), ('', '11.2'), ('', '11.7'), ('', '10.6'), ('', '16.6'), ('', '10.7'), ('', '9.1'), ('', '16.5'), ('', '9.6'), ('', '8.4'), ('', '12'), ('', '15.5'), ('', '9'), ('', '6.4'), ('', '9'), ('', '11.6'), ('', '18'), ('', '17.2'), ('', '5.2'), ('', '18'), ('', '11.1'), ('', '15.6'), ('', '17.9'), ('', '20.5'), ('', '17.9'), ('', '15.1'), ('', '16.5'), ('', '14.2'), ('', '16.7'), ('', '12'), ('', '19.2'), ('', '17.3'), ('', '20'), ('', '18'), ('', '19.8'), ('', '8.4'), ('', '16.95'), ('', '10.8'), ('', '7.8'), ('', '12.8'), ('', '16.5'), ('', '14'), ('', '15.5'), ('', '11'), ('', '14.4'), ('', '11.6'), ('', '16.7'), ('', '14.1'), ('', '13'), ('', '9.4'), ('', '12.3'), ('', '14'), ('', '21.6'), ('', '13.3'), ('', '11.8'), ('', '26.8'), ('', '17.2'), ('', '12'), ('', '14.1'), ('', '12'), ('', '9'), ('', '11.4'), ('', '11.4'), ('', '8.5'), ('', '10'), ('', '10.4'), ('', '10.65')]",
+      "analyte_fraction_units": "Secchi Depth Feet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.482217,
+          39.538442
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R94071334",
+      "full station name": "Upstream 2",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '5.2'), ('', '5.2'), ('', '4.4'), ('', '4.4'), ('', '4.4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.556670,
+          39.677727
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80521346",
+      "full station name": "FMWT 815 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '125')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.576944,
+          38.086389
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A5R93321282",
+      "full station name": "Oro-6",
+      "run name": "Oroville Facilities GHG Special Investigation",
+      "run submitted by": "Ira Alexander",
+      "data": "[('', '5'), ('', '5'), ('', '4'), ('', '4'), ('', '4')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.470124,
+          39.553075
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80520052",
+      "full station name": "Fluoroprobe Special Study TOC/DOC",
+      "run name": "Lisbon Weir",
+      "run submitted by": "Rojas, LeAnne",
+      "data": "[('', '0.18'), ('', '0.18'), ('', '0.11'), ('', '0.11')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.086111,
+          38.086667
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A8L85792406",
+      "full station name": "CLEAR LK LO ARM CL3",
+      "run name": "Clear Lake without Cache C (No Metals)",
+      "run submitted by": "Scott McReynolds",
+      "data": "[('', '2.5'), ('', '2'), ('', '2.3'), ('', '1.5'), ('', '1.05'), ('', '1'), ('', '0.9'), ('', '3'), ('', '7.6'), ('', '7.6'), ('', '1.3'), ('', '1.3'), ('', '1.3'), ('', '2.7'), ('', '4.1'), ('', '3'), ('', '1.6'), ('', '1.5'), ('', '1'), ('', '3.7'), ('', '1.3'), ('', '2.5'), ('', '3'), ('', '1.5'), ('', '2.8'), ('', '2.5'), ('', '2.1'), ('', '2.7'), ('', '3'), ('', '1.8'), ('', '2.9'), ('', '2.1'), ('', '2.9'), ('', '1.2'), ('', '3.7'), ('', '3'), ('', '2.3'), ('', '1.5'), ('', '0.3'), ('', '1.8'), ('', '2.1'), ('', '1.2'), ('', '0.9'), ('', '2.8'), ('', '1.9'), ('', '1'), ('', '0.9'), ('', '0.9'), ('', '1.2'), ('', '1.6'), ('', '1.6'), ('', '0.9'), ('', '0.9'), ('', '1'), ('', '1.7'), ('', '2'), ('', '1.9'), ('', '1.9'), ('', '2'), ('', '1.1'), ('', '1.1'), ('', '1.6'), ('', '1.1'), ('', '3.4'), ('', '2'), ('', '1.6'), ('', '9.9'), ('', '1'), ('', '1.6'), ('', '1.3'), ('', '2.1'), ('', '2.7'), ('', '1.4'), ('', '2.5'), ('', '1.5'), ('', '2.4'), ('', '1.9'), ('', '2.6'), ('', '1.2')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.677778,
+          38.964444
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0290400",
+      "full station name": "Lisbon Slough at Toe Drain",
+      "run name": "Yolo Bypass 2013",
+      "run submitted by": "Angelica Munguia",
+      "data": "[('', '0.1'), ('', '0.1'), ('', '0.13'), ('', '0.13'), ('', '0.2'), ('', '0.2'), ('', '0.3'), ('', '0.3'), ('', '0.2'), ('', '0.2'), ('', '0.16'), ('', '0.16'), ('', '0.11'), ('', '0.21'), ('', '0.2'), ('', '0.2'), ('', '0.19'), ('', '0.19'), ('', '0.25'), ('', '0.25'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.18'), ('', '0.2'), ('', '0.2'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.25'), ('', '0.25'), ('', '0.26'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.18'), ('', '0.18'), ('', '0.18'), ('', '0.19'), ('', '0.19'), ('', '0.28'), ('', '0.28'), ('', '0.28'), ('', '0.28'), ('', '0.31'), ('', '0.24'), ('', '0.24'), ('', '0.26'), ('', '0.26'), ('', '0.26'), ('', '0.2'), ('', '0.2'), ('', '0.2'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.18'), ('', '0.18'), ('', '0.18'), ('', '0.24'), ('', '0.24'), ('', '0.24'), ('', '0.21'), ('', '0.21'), ('', '0.21'), ('', '0.4'), ('', '0.4'), ('', '0.4'), ('', '0.34'), ('', '0.34'), ('', '0.34'), ('', '0.16'), ('', '0.16'), ('', '0.16'), ('', '0.14'), ('', '0.14'), ('', '0.14')]",
+      "analyte_fraction_units": "Secchi Depth Meters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.589003,
+          38.473847
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D8",
+      "full station name": "Suisun Bay off Middle Point nr. Nichols",
+      "run name": "Suisun Bay 1",
+      "run submitted by": "Roberta Elkins",
+      "data": "[('', '32'), ('', '24'), ('', '36'), ('', '56'), ('', '72'), ('', '40'), ('', '48'), ('', '44'), ('', '52'), ('', '88'), ('', '70'), ('', '60'), ('', '112'), ('', '60'), ('', '40'), ('', '26'), ('', '52'), ('', '52'), ('', '56'), ('', '52'), ('', '50'), ('', '40'), ('', '56'), ('', '48'), ('', '58'), ('', '50'), ('', '60'), ('', '58'), ('', '64'), ('', '46'), ('', '20'), ('', '60'), ('', '42'), ('', '64'), ('', '60'), ('', '42'), ('', '36'), ('', '30'), ('', '36'), ('', '72'), ('', '52'), ('', '40'), ('', '42'), ('', '40'), ('', '24'), ('', '54'), ('', '28'), ('', '64'), ('', '36'), ('', '40'), ('', '56'), ('', '56'), ('', '36'), ('', '72'), ('', '50'), ('', '50'), ('', '44'), ('', '24'), ('', '48'), ('', '42'), ('', '60'), ('', '40'), ('', '32'), ('', '52'), ('', '52'), ('', '52'), ('', '52'), ('', '40'), ('', '40'), ('', '72'), ('', '44'), ('', '32'), ('', '44'), ('', '44'), ('', '36'), ('', '40'), ('', '40'), ('', '48'), ('', '50'), ('', '56'), ('', '52'), ('', '68'), ('', '50'), ('', '60'), ('', '52'), ('', '32'), ('', '80'), ('', '92'), ('', '92'), ('', '64'), ('', '56'), ('', '60'), ('', '52'), ('', '40'), ('', '68'), ('', '94'), ('', '76'), ('', '76'), ('', '50'), ('', '76'), ('', '96'), ('', '96'), ('', '70'), ('', '56'), ('', '44'), ('', '56'), ('', '40'), ('', '90'), ('', '100'), ('', '60'), ('', '80'), ('', '50'), ('', '64'), ('', '44'), ('', '72'), ('', '64'), ('', '68'), ('', '76'), ('', '60'), ('', '44'), ('', '54'), ('', '64'), ('', '42'), ('', '60'), ('', '40'), ('', '20')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.989972,
+          38.059917
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "RSAC052",
+      "full station name": "rsac052",
+      "run name": "Suisun Bay 2*",
+      "run submitted by": "Ralston, Casey",
+      "data": "[('', '19'), ('', '26'), ('', '64'), ('', '40'), ('', '56'), ('', '56'), ('', '54'), ('', '40'), ('', '60'), ('', '40'), ('', '22'), ('', '56'), ('', '34'), ('', '36'), ('', '56'), ('', '62')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.158333,
+          38.029167
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D6",
+      "full station name": "Suisun Bay @ Bulls Head nr. Martinez",
+      "run name": "Suisun Bay 2",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '68'), ('', '104'), ('', '72'), ('', '44'), ('', '48'), ('', '92'), ('', '44'), ('', '56'), ('', '68'), ('', '92'), ('', '92'), ('', '112'), ('', '72'), ('', '68'), ('', '36'), ('', '50'), ('', '60'), ('', '72'), ('', '70'), ('', '100'), ('', '80'), ('', '60'), ('', '64'), ('', '62'), ('', '56'), ('', '60'), ('', '60'), ('', '42'), ('', '44'), ('', '60'), ('', '54'), ('', '48'), ('', '40'), ('', '36'), ('', '36'), ('', '72'), ('', '56'), ('', '60'), ('', '18'), ('', '44'), ('', '44'), ('', '60'), ('', '44'), ('', '52'), ('', '30'), ('', '56'), ('', '40'), ('', '60'), ('', '44'), ('', '40'), ('', '38'), ('', '36'), ('', '28'), ('', '72'), ('', '64'), ('', '72'), ('', '70'), ('', '44'), ('', '44'), ('', '56'), ('', '72'), ('', '40'), ('', '44'), ('', '60'), ('', '64'), ('', '28'), ('', '60'), ('', '48'), ('', '40'), ('', '66'), ('', '52'), ('', '64'), ('', '52'), ('', '86'), ('', '36'), ('', '36'), ('', '64'), ('', '52'), ('', '40'), ('', '54'), ('', '60'), ('', '60'), ('', '80'), ('', '80'), ('', '52'), ('', '60'), ('', '60'), ('', '60'), ('', '78'), ('', '60'), ('', '70'), ('', '80'), ('', '116'), ('', '92'), ('', '68'), ('', '80'), ('', '88'), ('', '80'), ('', '56'), ('', '96'), ('', '110'), ('', '72'), ('', '72'), ('', '80'), ('', '80'), ('', '84'), ('', '84'), ('', '76'), ('', '50'), ('', '80'), ('', '84'), ('', '100'), ('', '60'), ('', '62'), ('', '84'), ('', '56'), ('', '76'), ('', '76'), ('', '70'), ('', '80'), ('', '48')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.117750,
+          38.044361
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "D7",
+      "full station name": "Grizzly Bay @ Dolphin nr. Suisun Slough",
+      "run name": "Zoo Tow",
+      "run submitted by": "Sarah Lesmeister",
+      "data": "[('', '24'), ('', '24'), ('', '48'), ('', '64'), ('', '48'), ('', '40'), ('', '24'), ('', '60'), ('', '52'), ('', '40'), ('', '40'), ('', '44'), ('', '64'), ('', '22'), ('', '20'), ('', '32'), ('', '68'), ('', '64'), ('', '30'), ('', '30'), ('', '30'), ('', '56'), ('', '36'), ('', '60'), ('', '24'), ('', '60'), ('', '20'), ('', '24'), ('', '30'), ('', '20'), ('', '50'), ('', '32'), ('', '20'), ('', '32'), ('', '20'), ('', '22'), ('', '20'), ('', '44'), ('', '28'), ('', '34'), ('', '30'), ('', '22'), ('', '32'), ('', '34'), ('', '36'), ('', '32'), ('', '32'), ('', '44'), ('', '28'), ('', '32'), ('', '24'), ('', '28'), ('', '36'), ('', '36'), ('', '20'), ('', '30'), ('', '10'), ('', '10'), ('', '20'), ('', '16'), ('', '22'), ('', '36'), ('', '24'), ('', '20'), ('', '22'), ('', '46'), ('', '32'), ('', '20'), ('', '44'), ('', '28'), ('', '36'), ('', '52'), ('', '52'), ('', '20'), ('', '24'), ('', '30'), ('', '40'), ('', '28'), ('', '28'), ('', '28'), ('', '20'), ('', '24'), ('', '20'), ('', '40'), ('', '60'), ('', '50'), ('', '48'), ('', '16'), ('', '52'), ('', '40'), ('', '52'), ('', '52'), ('', '32'), ('', '29'), ('', '30'), ('', '96'), ('', '96'), ('', '96'), ('', '50'), ('', '52'), ('', '64'), ('', '56'), ('', '36'), ('', '30'), ('', '56'), ('', '80'), ('', '40'), ('', '58'), ('', '62'), ('', '32'), ('', '64'), ('', '70'), ('', '44'), ('', '72'), ('', '32'), ('', '40'), ('', '96'), ('', '44'), ('', '36'), ('', '36'), ('', '58'), ('', '24'), ('', '50'), ('', '28'), ('', '64'), ('', '16')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.039694,
+          38.117139
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "A0D81651399",
+      "full station name": "Below Base of Toe Drain in Prospect Slough",
+      "run name": "YB - Fall Study",
+      "run submitted by": "Jared Frantzich",
+      "data": "[('', '0.32'), ('', '0.32'), ('', '0.21'), ('', '0.21'), ('', '0.44'), ('', '0.44'), ('', '0.32'), ('', '0.32'), ('', '0.2'), ('', '0.2'), ('', '0.35'), ('', '0.26'), ('', '0.26'), ('', '0.3'), ('', '0.3'), ('', '0.41'), ('', '0.41'), ('', '0.47'), ('', '0.27'), ('', '0.52'), ('', '0.51'), ('', '0.12'), ('', '0.3'), ('', '0.4'), ('', '0.34'), ('', '0.3'), ('', '0.62'), ('', '0.5'), ('', '0.3'), ('', '0.9')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.664178,
+          38.274275
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D803314810",
+      "full station name": "FMWT 703 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '36')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.816111,
+          38.054722
+        ]
+      }
+    },
+{"type": "Feature",
+      "properties": {
+      "station name": "B9D80641433",
+      "full station name": "FMWT 707 SHALLOW",
+      "run name": "Special Study",
+      "run submitted by": "Francine Mejia",
+      "data": "[('', '76')]",
+      "analyte_fraction_units": "Secchi Depth Centimeters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.720833,
+          38.106944
+        ]
+      }
+    }]
 }
